@@ -9,6 +9,8 @@
   CLOCK: [2023-03-14 Tue 01:28:27]--[2023-03-14 Tue 01:28:28] =>  00:00:01
   :END:
 - [Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data via Git and GitHub.
+	- [samsiufly/special-waddle: 1st digital garden](https://github.com/samsiufly/special-waddle) - my Github of the digital garden
+	-
 -
 - # PKM
 - [Guiding Values of PKM by LYT Kit](https://notes.linkingyourthinking.com/Cards/Guiding+Values+of+PKM) - Tips about PKM (**P**ersonal **K**nowledge **M**anegement)
