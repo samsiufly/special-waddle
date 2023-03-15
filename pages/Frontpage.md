@@ -13,5 +13,4 @@
   id:: 640e8e9e-bb1f-4ab9-b491-a9b51308bed5
   background-color:: yellow
   heading:: true
-- {{embed [[Contents]]}}
--
+- {{embed [[Main Index]]}}
