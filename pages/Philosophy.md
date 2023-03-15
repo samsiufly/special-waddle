@@ -1,0 +1,6 @@
+- [《西洋哲學史話》：尼采認為「生命衝力」是強者的象徵，「倫理道德」是弱者的表示 - 第 1 頁 - The News Lens 關鍵評論網](https://www.thenewslens.com/article/146072)
+- [量變到質變](https://ibook.idv.tw/enews/enews1081-1110/enews1108.html)
+- [休謨哲學的四個關鍵](https://www.hk01.com/%E5%93%B2%E5%AD%B8/47813/%E4%BC%91%E8%AC%A8%E5%93%B2%E5%AD%B8%E7%9A%84%E5%9B%9B%E5%80%8B%E9%97%9C%E9%8D%B5)
+-
+- # YouTube
+- [(中字)究竟中國人如何思考？中國思想是哲學嗎？介紹中國有哲學嗎一書(上)〈蕭若元：理論蕭析〉2021-02-08](https://www.youtube.com/watch?v=8M1bHfxUPww) - 蕭生講中國哲學

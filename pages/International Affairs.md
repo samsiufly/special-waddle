@@ -1,0 +1,7 @@
+- # _Main Index_
+- [[China]]
+-
+- # Links
+- [The Strategist | ASPI's analysis and commentary site](https://www.aspistrategist.org.au/) - ASPI is an independent, non-partisan think tank that produces expert and timely advice for Australia's strategic and defence leaders.
+-
+- [Europe's Big Investment Deal with China Is a Mistake - Bloomberg](https://www.bloomberg.com/opinion/articles/2020-12-30/europe-s-big-investment-deal-with-china-is-a-mistake?srnd=opinion-politics-and-policy) - In late 2020 when China was making deal with EU just after Joe Biden's victory of presidential election

@@ -1,0 +1,20 @@
+- [[Interior Design]]
+-
+- # Ideas Generators
+- [Work in Progress - Harvard Graduate School of Design](https://www.gsd.harvard.edu/category/work-in-progress/) - To see how the top students in a top school play with architecture
+- [Zotero | Groups > Japanese Architecture](https://www.zotero.org/groups/34411/japanese_architecture)
+-
+- Tutorial
+	- [Courses | ArchiStar Academy](https://academy.archistar.ai/training/courses)
+	- [Learn Revit Architectural Design | Autodesk Learning Pathway](https://www.autodesk.com/certification/learning-pathways/revit-architectural-design)
+	- [Learn AutoCAD for Design ](https://www.autodesk.com/certification/learning-pathways/autocad-design-drafting)
+		- [Learn AutoLISP for AutoCAD productivity | AfraLISP](https://www.afralisp.net/)
+		- [AutoCAD: Secrets Every User Should Know: Abbott, Dan: 9780470109939: Amazon.com: Books](https://www.amazon.com/AutoCAD-Secrets-Every-User-Should/dp/0470109939)
+		- [AutoLISP Books by Reinaldo N. Togores: Amazon.com](https://www.amazon.com/Books-Reinaldo-N-Togores/s?rh=n%3A283155%2Cp_27%3AReinaldo+N.+Togores)
+		- [KCS, AutoCAD secret tutorial videos](https://www.youtube.com/@kcs3146)
+- # Must read
+- [AD Classics: Salk Institute / Louis Kahn | ArchDaily](https://www.archdaily.com/61288/ad-classics-salk-institute-louis-kahn?ad_medium=office_landing&ad_name=article) - Walk the journey that Kahn walked
+- [Architects Are Workers | ArchDaily](https://www.archdaily.com/955144/architects-are-workers?utm_medium=email&utm_source=Notifications&utm_campaign=daily&kth=5530594) - We learned that in our first lecture at uni that we might not be able to afford the things we designed
+- [Coding Architects Are the Future: Why (And How) to Start Learning Coding | HP Large Format Printers ](https://largeformat.hp.com/in/blog/coding-in-architecture-4-reasons-why-architects-should-learn-to-code#:~:text=The%20primary%20reason%20why%20architects,your%20career%20in%20many%20ways.&text=Coding%20is%20like%20getting%20under%20the%20hood%20of%20design%20software.)
+	- [How to Become a Software Developer | 9 Tips | Coursera](https://www.coursera.org/articles/software-developer)
+	-

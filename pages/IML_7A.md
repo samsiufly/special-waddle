@@ -1,0 +1,13 @@
+- # Note
+- # Vocab
+- ### カタカナ
+- Stew (シチュー)
+- Energy (エネルギー)
+- ### Verb
+- 嵌まる (はまる) [嵌まる](https://jisho.org/search/%E3%81%AF%E3%81%BE%E3%82%8B) - to be fit for (a job, etc.); to be suited for; to satisfy (conditions)
+-
+- ### Noun
+- やぎ座 - 山羊座、Capricornus, Capricorn
+- ### Adjectives
+- ### Adverbs or expressions
+-

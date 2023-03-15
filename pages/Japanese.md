@@ -1,0 +1,39 @@
+- # Link
+- ### UQ IML
+- [IML 7A Sem1 2023 Padlet by Hiroko Kikkawa](https://padletuq.padlet.org/iml5/22s1ja6tue-japanese-level-6a-semester-one-tue-6-8pm-aest-wit-fuzcz3ats3siirkj)
+- [IML 6B Sem2 2022 Padlet by Akiko Sensei](https://padletuq.padlet.org/iml5/22s2ja6tue-japanese-level-6b-semester-2-tue-6-8pm-aest-with--cxswhiwelzdzcnwp)
+- [IML 6A Sem1 2022 Padlet by Akiko Sensei](https://padletuq.padlet.org/iml5/22s1ja6tue-japanese-level-6a-semester-one-tue-6-8pm-aest-wit-fuzcz3ats3siirkj)
+-
+- ### Learning Resources
+- [JLPT Sensei](https://jlptsensei.com) -Free JLPT notes and practice material (English)
+- [jisho](https://jisho.org/) - a powerful Japanese-English dictionary
+- [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/]) - Japan's only public media organisation NHK provides a variety of lesson programs plus news in simple Japanese
+- [Maggie Sensei](https://maggiesensei.com/) - Maggie Sensei is a Japanese grammar guide site designed to teach Japanese as it is used in everyday life. The site's mascot is a dog named Maggie.
+- [ToFuGu Resources](https://www.tofugu.com/japanese-learning-resources-database/) - Lot Lot Lots of Japanese learning resources
+-
+- [日本語表現インフォ](https://hyogen.info/) -The website is simple and well-organised, with expressions categorised by emotion, sensation, or person. There are also subcategories, such as expressions for different levels of sadness. (Japanese)
+- [出口仁 CHANNEL](https://www.youtube.com/@deguchi) - 出口先生ユーチューブ無料授業 中国語＋日本語
+- [あかね的日本語教室](https://www.youtube.com/@Akane-JapaneseClass) - 日本人で日本語の先生をしているあかねです。YouTubeに日本や日本語に関する動画を投稿しています。
+-
+- [音速語言學習(日語)](https://jp.sonic-learning.com/) - 提供免費日文教材和學習指導(Traditional Chinese)
+- [時雨の町（時雨之町）](https://www.sigure.tw/) - 日語自學者學習網站 (Traditional Chinese)
+- [王可樂日語](https://colanekojp.com.tw/) - 台灣王可樂老師網課 (Traditional Chinese)
+-
+-
+- ## Other resources
+- [(3) List of sexual terms and fetishes : LearnJapanese](https://www.reddit.com/r/LearnJapanese/comments/6vog8a/list_of_sexual_terms_and_fetishes/?utm_medium=android_app&utm_source=share) - List of sexual terms and fetishes
+-
+- ## N4 - N5 Grammar
+- [「ものだ」用法小統整](https://www.facebook.com/story.php?story_fbid=3947691191929844&id=121678347864500) - 理所當然, 回憶, 感嘆
+-
+- ## N3 or above Grammar
+-
+-
+- # _IML Note Index_
+- [[IML_7A]]
+- [[IML_6B]]    [[IML_6A]]
+- [[IML_5A+B]]    [[IML_4A+B]]
+- [[IML_3A+B]]    [[IML_2A+B]]
+-
+- # かし　歌詞　カシ
+- x`

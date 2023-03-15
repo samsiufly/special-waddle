@@ -1,0 +1,11 @@
+- # 自炊 (電子書籍)
+  id:: 64106ccf-e965-4edf-83ba-a2e7c64fd97b
+- [我的自炊流程：自炊的工具和自炊後的整理術 | 點字記](https://roulesophy.github.io/%E6%88%91%E7%9A%84%E8%87%AA%E7%82%8A%E6%B5%81%E7%A8%8B-%E8%87%AA%E7%82%8A%E7%9A%84%E5%B7%A5%E5%85%B7%E5%92%8C%E8%87%AA%E7%82%8A%E5%BE%8C%E7%9A%84%E6%95%B4%E7%90%86%E8%A1%93/) - 自炊就是一種把書本轉變成電腦掃描文件的一個方法。做法就是把書本的書脊裁掉，變成一疊紙後把它們掃描機裡，最後變成一個電子版。
+- [エロ本を自炊してみた(FUJITSU ScanSnap iX500/DURODEX 自炊裁断機 ブラック 200DX/失楽天) : rs6000の日記](http://blog.livedoor.jp/rs6000/archives/65891245.html)
+- [自炊的第一步：裁書 關鍵刀法、裁切教學大公開！ @ 創意市集 出版 :: 痞客邦 ::](https://ifbook.pixnet.net/blog/post/168192645)
+- ## Tools I have
+- Fujitsu ScanSnap [[ix100]]
+- Fujitsu ScanSnap [[s1300i]]
+- Paper Trimmer
+- DVD RW for ripping CD
+-

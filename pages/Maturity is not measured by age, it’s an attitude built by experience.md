@@ -1,0 +1,13 @@
+- Here are **10 traits** of a mature person.
+- 1. **Comfortable being alone:** They are comfortable being on their own and don’t always need friends or people around them.
+- 2. **Accept differences:** They accept that everyone is different and will have different opinions. They don’t need everyone to think or act as they do.
+- 3. **Emotional Independence:** They are not dependent financially or emotionally on their parents. They tend to make their own life decisions.
+- 4. **Treating others right:** They don’t put someone down or make fun of someone because that’s not how they get their self-esteem. They are already confident in themselves.
+- 5. **Taking responsibility**: They don’t blame others for their failures and try to take responsibility on how to improve the situation rather than complain.
+- 6. **Listening more than talking: **They have two ears and one mouth and they use them in that proportion.
+- 7. **Honesty: **They don’t try to deceive or manipulate others for their gains. They lay their desires on the table and it’s okay if other people walk away.
+- 8. **Mature conversations: **They like to talk about deep meaningful topics about life and nature with a sense of wonder and curiosity.
+- 9. **Never clinging:** They don’t emotionally cling to people and if someone isn’t the right fit for them they aren’t afraid to let them go.
+- 10. **Not chasing: **They don't chase money or that new car or someone,they know where true happiness is; in the present.
+-
+- Source: https://www.quora.com/Which-is-correct-This-person-is-not-mature-enough-or-This-person-is-not-matured

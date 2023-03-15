@@ -1,0 +1,8 @@
+- Cloud & Backup Overhaul - [Evernote Link](https://www.evernote.com/shard/s259/client/snv?isnewsnv=true&noteGuid=9b2fe294-954f-4af3-89c3-e9eaf37213ea&noteKey=77ac81e87a73a272f13c80a760bae10b&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs259%2Fsh%2F9b2fe294-954f-4af3-89c3-e9eaf37213ea%2F77ac81e87a73a272f13c80a760bae10b&title=Cloud%2B%2526%2BBackup%2BOverhaul)
+	- [(3) VPN on the router or on the NAS? when to use which? : synology](https://www.reddit.com/r/synology/comments/l2kf6m/vpn_on_the_router_or_on_the_nas_when_to_use_which/) - VPN on router or NAS? or nordvpn?
+	- Wifi Router Solution
+		- Asus ax router
+		- unifi system
+		- semi-unifi (gateway+wireless ap)
+	- Synology NAS DS218play + WD My Cloud Mitigation
+		- Total capacity x 2 = HDD required

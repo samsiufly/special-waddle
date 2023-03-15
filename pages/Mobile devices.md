@@ -1,0 +1,5 @@
+- # ebook solution
+- Using e-ink reader
+- iPad
+- mobile phone
+- {{embed [[Decluttering]]}}

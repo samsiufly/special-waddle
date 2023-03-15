@@ -1,0 +1,39 @@
+- Author: Thomas Oppong
+  [https://medium.com/personal-growth/seeking-wisdom-lessons-on-becoming-an-outstanding-thinker-e9668079a939](https://medium.com/personal-growth/seeking-wisdom-lessons-on-becoming-an-outstanding-thinker-e9668079a939)
+- Society values knowledge, intelligence and wisdom
+- But knowing the level of your ignorance is important for acquiring knowledge
+- Ignorance is dangerous when you think you know everything and it hinders your progress
+- An example: you'll make no progress with martial arts if you think of a black belt as being "knowing everything". You'll stop putting in the work and stall.
+- But if you're accepting that it's a level of knowledge where you've acquired the basics, and the next steps are re-learning and refining then you'll continue to improve.
+- The first thing I did as a black belt was go back to white belt techniques and relearn them but improve them each time.
+- Ignorance not so much a shame as being unwilling to learn
+- Try to learn something new every day. If you do that then in a year you'll have learned 365 new things and be better off than the year before.
+-
+- # Links
+- [How Learning Happens: Seminal Works in Educational Psychology and What](https://www.routledge.com/How-Learning-Happens-Seminal-Works-in-Educational-Psychology-and-What-They/Kirschner-Hendrick/p/book/9780367184575?source=igodigital) - How Learning Happens **introduces 28 giants of educational research and their findings on how we learn and what we need to learn effectively, efficiently, and enjoyably**. Many of these works have inspired researchers and teachers all around the world and have left a mark on how we teach today.
+-
+- # Learning Method
+- [Project-Based Learning and Problem-Based Learning (x-BL) | Office of Teaching and Learning](https://www.uvu.edu/otl/resources/group_work/pbl.html#:~:text=Project%2Dbased%20learning%20(PBL),mastery%20of%20the%20course%20content.) - During my undergraduate studies, I had the opportunity to experience problem and project-based learning methods.
+-
+-
+- # Research Method
+- [How to build an essay - Learn HQ](https://www.monash.edu/learnhq/excel-at-writing/how-to-write.../essay/how-to-build-an-essay) - structuring an academic essay
+- [Purpose of Guide - Organizing Your Social Sciences Research Paper - Research Guides at University of Southern California](https://libguides.usc.edu/writingguide)
+- [Verbs for Referring to Sources | Writing Advice](https://advice.writing.utoronto.ca/english-language/referring-to-sources/) -  **Pattern 1**: *reporting verb* + **that** + *subject* + *verb*
+-
+- # Note Taking Method
+- ### Zettelkasten Method
+	- Zettelkasten [Evernote 實踐 Zettelkasten 卡片盒筆記法，整理知識網路系統](https://www.playpcesor.com/2020/06/evernote-zettelkasten.html)
+	- [(3) Let's build a list of Zettelkasten software! : Zettelkasten](https://www.reddit.com/r/Zettelkasten/comments/flygc4/lets_build_a_list_of_zettelkasten_software/) - good idea and we can achieve that by using Obsidian
+	- [A System to Capture and Retain Knowledge](https://x-team.com/blog/a-system-to-capture-and-retain-knowledge/) - Zettelkasten method for capturing and retaining knowledge
+	- [Getting Started • Zettelkasten Method](https://zettelkasten.de/posts/overview/) - The author suggested The Archive to new users
+	- [Anyone have experience using Zotero as a slip box, zettelkasten, or smart notes? - Zotero Forums](https://forums.zotero.org/discussion/81735/anyone-have-experience-using-zotero-as-a-slip-box-zettelkasten-or-smart-notes) - Good idea, but I don't think Zotero is a good tool for organising information
+	- [An Effective Way to Organize Your Notes for Writing Books and Articles | Forge](https://forge.medium.com/the-key-to-my-creativity-is-this-weird-note-taking-system-e6704c21f61d) - I've heard that (forgot who) some researchers found there were some limitations when using Zettelkasten method in formal research. While the method can be helpful in generating new ideas based on the existing works and papers, but it also **emphasises this workflow to a certain degree and becomes a subtle limitation to users.**
+	-
+	-
+- [Staying Organized: Hunting for the perfect workflow - Life in the desert](https://cdint.weebly.com/chris/staying-organized) - A workflow can help you achieve more and more!
+- [Zotero and Evernote Workflow - Evernote Integrations - Evernote User Forum](https://discussion.evernote.com/forums/topic/89625-zotero-and-evernote-workflow/?tab=comments#comment-383779) - Outdated as I haven't used Zotero in many years after finishing my last research course
+-
+-
+-
+-

@@ -1,0 +1,10 @@
+- [[How to stop being a Tab-Hoarder]]
+- [[How to become creative]]
+-
+- ### Is a child happier than an adult?
+- {{embed [[Maturity is not measured by age, it’s an attitude built by experience]]}}
+-
+- # Link
+- [心理治療](https://www.mind.org.hk/zh-hant/mental-health-a-to-z/%e5%bf%83%e7%90%86%e6%b2%bb%e7%99%82%e5%92%8c%e8%bc%94%e5%b0%8e/%e9%97%9c%e6%96%bc%e5%bf%83%e7%90%86%e6%b2%bb%e7%99%82/) - minkhk 關於心理治療
+- [Talk Therapy](https://www.commoncarecentral.com/ch-mental-health-az/what-is-talk-therapy) - 何謂談話療法？是指與治療師談論困擾自己的事物，幫助深入了解、應對和克服生活中面對的一些挑戰和困難。
+- [法拉基金會](https://www.raphahk.org/) - 提供情緒支援的基督教背景NGO

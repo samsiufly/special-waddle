@@ -1,0 +1,18 @@
+- ## Link
+- [Egoist's Raycast scripts](https://github.com/egoist/raycast-scripts)
+- [Raycast Extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
+- [Raycast API](https://developers.raycast.com/)
+- [Raycast Store](https://www.raycast.com/store)
+- [Raycast Template](https://github.com/jclem/raycast-template)
+- [Raycast Marketplace](https://scriptcommands.com/) - Unofficial Marketplace for Raycast Script Commands. ([Code](https://github.com/Pondorasti/raycast-marketplace))
+- [Build a Raycast Extension with TypeScript & React (2022)](https://www.youtube.com/watch?v=Hmk1c6jIUGY)
+- [react-query meets Raycast](https://github.com/thomaspaulmann/raycast-react-query)
+- [Raycast New Grid API (2022)](https://www.youtube.com/watch?v=oSZ4ovsWxmU)
+- [Building Raycast extensions with Thomas Paul Mann (2022)](https://www.youtube.com/watch?v=dgyuttjX1oo)
+- [Sunbeam](https://github.com/pomdtr/sunbeam) - Raycast inspired launcher for the command line.
+- [VSCode Raycast extension](https://marketplace.visualstudio.com/items?itemName=tonka3000.raycast) ([Code](https://github.com/tonka3000/vscode-raycast))
+- [Raycast's evolution in 2022](https://twitter.com/raycastapp/status/1605981287868534784)
+- [Raycast AI: The magic of AI, right on your Mac (2023)](https://www.youtube.com/watch?v=nKYeAhsWF70)
+-
+- ## Extension
+-
