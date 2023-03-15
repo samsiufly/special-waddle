@@ -1,4 +1,5 @@
 - # Becoming a Tokyo Center: A History of Shinjuku
+- ![Shinjuku+City_1678881245686_0_1678881510935_0.jpg](../assets/Shinjuku+City_1678881245686_0_1678881510935_0_1678882482888_0.jpg)
 - **A New Center for Tokyo**
   Shinjuku remained relatively unscathed after the earthquake in 1923, and began its rise to prominence as a shopping district.Takano (高野) moved to a new Western-style building in 1926. The Nakamuraya (中村屋) bakery moved to Shinjuku, owned by Soma Aizo and Kokko, supporters of the Pan-Asian movement.
 - The bookstore Kinnokuniya (紀伊國屋書店) was founded in 1927, spitting from the charcoal business company.
@@ -18,12 +19,13 @@
 - A movie theatre manager said that "More powerful and compelling real life dramas than any film take place on these streets everyday". This may be still true of Shinjuku today.
 -
 - **Eternally Unfinished**
+- ![yodobashi_plant_1678881307536_0.jpg](../assets/yodobashi_plant_1678881307536_0_1678882508883_0.jpg)
 - The Yodobashi Water purification Plant (淀橋浄水場) was opened in Shinjuku, Tokyo in 1898 (Meiji 31), as one of the first Japan's modern water works. The Plant was extended several times due to the exceeding demand of water supplies.
 - Finally the Plant was shut down in 1968 (Showa 43).
   The site became the Japan's best known CBD, home for Park Hyatt Hotel and Tokyo Metropolitian Government Building designed by Tange Kenzō.
--
+- ![today_shinjuku_1678881324552_0.jpg](../assets/today_shinjuku_1678881324552_0_1678882524217_0.jpg)
 - Modern high-rise buildings occupying the west of Shinjuku Station today
--
+- ![today_shinjuku2_1678881329668_0.jpg](../assets/today_shinjuku2_1678881329668_0_1678882519876_0.jpg)
 - An aerial shot of the area around Shinjuku Station
 -
 - Shinjuku transformed from a small village surrounded by trees to a bustling  area rich in variety, including glamorous high-rise buildings and alleys recalling the former black markets.
