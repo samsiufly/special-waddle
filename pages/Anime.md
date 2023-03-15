@@ -3,10 +3,13 @@
 - [[Japanese]]
 - [[ラブライブ]]
 - [[NSFW]]
--
-- # マクロス Macross
-- [Forums - Macross World Forums](https://www.macrossworld.com/mwf/) - a forum for Macross fans since 1999 (English only)
-- [(3) Macross [Rewatch] - Super Dimension Fortress Macross - Episode 5 Discussion [Spoilers] : anime](https://www.reddit.com/r/anime/comments/74pyda/macross_rewatch_super_dimension_fortress_macross/) - Discussion about the interior space, transformation sequence and some spoilers
-- [DYRL SDF-1 Macross - Movies and TV Series - Macross World Forums](https://www.macrossworld.com/mwf/topic/29823-dyrl-sdf-1-macross/) - discussion about interior city planning and overall fortress scale
-- [(3) This scene confused me about the internal structure of SDF-1. It seems that the path is more than 10 km long, despite the fact that SDF-1 is only 1.2 km long, if it was made into a movie, I think the movie version of SDF-1 should be 12 km long. : macross](https://www.reddit.com/r/macross/comments/sei3xu/this_scene_confused_me_about_the_internal/)
--
+- [[Akihabara]]
+- ### マクロス Macross
+  collapsed:: true
+	- [Forums - Macross World Forums](https://www.macrossworld.com/mwf/) - a forum for Macross fans since 1999 (English only)
+	- [(3) Macross [Rewatch] - Super Dimension Fortress Macross - Episode 5 Discussion [Spoilers] : anime](https://www.reddit.com/r/anime/comments/74pyda/macross_rewatch_super_dimension_fortress_macross/) - Discussion about the interior space, transformation sequence and some spoilers
+	- [DYRL SDF-1 Macross - Movies and TV Series - Macross World Forums](https://www.macrossworld.com/mwf/topic/29823-dyrl-sdf-1-macross/) - discussion about interior city planning and overall fortress scale
+	- [(3) This scene confused me about the internal structure of SDF-1. It seems that the path is more than 10 km long, despite the fact that SDF-1 is only 1.2 km long, if it was made into a movie, I think the movie version of SDF-1 should be 12 km long. : macross](https://www.reddit.com/r/macross/comments/sei3xu/this_scene_confused_me_about_the_internal/)
+	-
+- ### Critics
+	- [U-ACG – 提供 ACG 文化研究與相關科技藝術之學程，也是屬於Yours](https://www.u-acg.com/)

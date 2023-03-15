@@ -1,3 +1,4 @@
+- ![cover_01.jpeg](../assets/cover_01_1678890073138_0.jpeg)
 - # Welcome🤳🏽
 - Welcome! This site is primarily an exploration of history of Hong Kong & East-Asia, international affairs, politics, social issues, economics, architecture, how to manage knowledge and philosophy. (Early 2021)
 - In 2022 I started putting computer related articles and link to here.
