@@ -27,3 +27,5 @@
 -
 - ### Sustainability
 	- [Australian Shopping Centre Set To Become World's Most Sustainable](https://www.realcommercial.com.au/news/australian-shopping-centre-set-to-become-worlds-most-sustainable?rsf=ps%3Afacebook%3Arcanews%3Anat&fbclid=IwAR3zDnEp9HByN_gM6pJWK5Dczd_n7NXmYPFDO6Y_r1ZKbSGkobitCp5tW9E)
+	- {{embed ((641328b5-89e0-4afe-ac63-fa798a2f0fa0))}}
+		-

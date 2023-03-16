@@ -1,0 +1,5 @@
+- ### CASIO G-SHOCK GBX-100
+-
+- ### Want to Buy
+	- [GA2100FT-8A FUTUR Special Collaboration Watch | G-SHOCK Australia](https://gshock.com.au/collections/buy-now/products/ga2100ft-8a)
+	- [Orient Men's '2nd Gen. Bambino Ver. 2' Japanese Automatic Stainless Steel and Leather Dress Watch, Creme Dial, 40 mm, Automatic Watch : Amazon.com.au: Clothing, Shoes ](https://www.amazon.com.au/Bambino-Japanese-Automatic-Stainless-Leather/dp/B01MTS5BFN)

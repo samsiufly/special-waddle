@@ -1,0 +1,9 @@
+- {{embed [[ChatGPT]]}}
+- # Stable Diffusion
+	- [runwayml/stable-diffusion-v1-5 · Hugging Face](https://huggingface.co/runwayml/stable-diffusion-v1-5)
+	- [ChilloutMix | Stable Diffusion Checkpoint | Civitai](https://civitai.com/models/6424/chilloutmix) - Civital LoRa
+	- [Civitai](https://civitai.com/) - Trained models
+	- [[AI繪圖] 仿Cosplay畫風！試用寫實模型Chilloutmix - mightybeast的創作 - 巴哈姆特](https://home.gamer.com.tw/artwork.php?sn=5661689)
+	- [[AI繪圖] Stable Diffusion WebUI Colab TW 支援多種SD模型 (3/16新增Extensions整理文章) - mightybeast的創作 - 巴哈姆特](https://home.gamer.com.tw/artwork.php?sn=5664550)
+	- [[AI繪圖] 仿Cosplay畫風！試用寫實模型Chilloutmix - mightybeast的創作 - 巴哈姆特](https://home.gamer.com.tw/artwork.php?sn=5661689)
+	- [而家AI繪圖就快取代電子雞 - 香港高登討論區](https://forum.hkgolden.com/thread/7662336/page/15) - 巴絲們的作品分享

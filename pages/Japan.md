@@ -5,5 +5,8 @@
 - [日本男生崇尚「色戀」超飢渴？　台灣女大生：像披羊皮的狼 | 生活 | CTWANT](https://www.ctwant.com/article/229037)
 -
 -
--
--
+- ### Tokyo
+	- [東京旅遊｜日本最美觀景台澀谷SHIBUYA SKY 觀光＋買手信一條龍 連日本代購都去入貨！ | am730](https://www.am730.com.hk/%E7%94%9F%E6%B4%BB/%E6%9D%B1%E4%BA%AC%E6%97%85%E9%81%8A-%E6%97%A5%E6%9C%AC%E6%9C%80%E7%BE%8E%E8%A7%80%E6%99%AF%E5%8F%B0%E6%BE%80%E8%B0%B7shibuya-sky-%E8%A7%80%E5%85%89-%E8%B2%B7%E6%89%8B%E4%BF%A1%E4%B8%80%E6%A2%9D%E9%BE%8D-%E9%80%A3%E6%97%A5%E6%9C%AC%E4%BB%A3%E8%B3%BC%E9%83%BD%E5%8E%BB%E5%85%A5%E8%B2%A8-/358318)
+	- [渋谷マルイが2026年に日本初の木造商業施設へ刷新、22年8月から建替えのため一時休業 - ファッションプレス](https://www.fashion-press.net/news/88620)
+	  id:: 641328b5-89e0-4afe-ac63-fa798a2f0fa0
+	-

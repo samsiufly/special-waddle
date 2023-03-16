@@ -1,0 +1,4 @@
+- # Main links
+	- [Remove Watermark - Upload Images to remove translucent watermarks - Watermarkremover.io](https://www.watermarkremover.io/upload) - A free website tool helps you remove watermarks
+	- [10 Minute Mail - Free Anonymous Temporary email - 10 Minute Mail - Free Anonymous Temporary email](https://10minutemail.com/)
+	- [BalliAsghar/Mailsy: ⚡️ Quickly generate a disposable email straight from terminal.](https://github.com/BalliAsghar/Mailsy) - A [[Homebrew]] tool can be used in [[Raycast]] and Alfred.

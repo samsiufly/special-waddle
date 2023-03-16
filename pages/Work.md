@@ -2,3 +2,5 @@
 	- Townsville Solar Farm
 		-
 -
+- ### Resources
+	- [World's Largest Hydrogen Plant Opens In Fukushima - FuelCellsWorks](https://fuelcellsworks.com/news/worlds-largest-hydrogen-plant-in-fukushima-opens/)

@@ -1,0 +1,4 @@
+- ### To Read
+	- **00:57** [[quick capture]]:  [とある科学の心理掌握 - Webで漫画が無料で読める！コミックNewtype](https://comic.webnewtype.com/contents/mentalout/)
+	- **00:59** [[quick capture]]:  [「とある魔術の禁書目録外伝 とある科学の心理掌握」作品情報｜コミックNewtype](https://web-ace.jp/comicnewtype/contents/548/)
+	-
