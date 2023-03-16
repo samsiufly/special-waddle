@@ -13,3 +13,8 @@
 	-
 - ### Critics
 	- [U-ACG – 提供 ACG 文化研究與相關科技藝術之學程，也是屬於Yours](https://www.u-acg.com/)
+-
+- ### old anime news
+	- [聲優跟蹤狂風波,常年騷擾東山奈央誓言絕不放棄跟她結婚生小孩 - 人人焦點](https://ppfocus.com/0/co8c8edde.html) [[Mar 13th, 2021]]
+	-
+-

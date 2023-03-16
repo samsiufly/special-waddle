@@ -19,15 +19,36 @@
 - [時雨の町（時雨之町）](https://www.sigure.tw/) - 日語自學者學習網站 (Traditional Chinese)
 - [王可樂日語](https://colanekojp.com.tw/) - 台灣王可樂老師網課 (Traditional Chinese)
 -
+- ### N4-N5 Expressions
+	- **一戸建て**での生活を楽しみにしています。
+	- [見逃し - Jisho.org](https://jisho.org/search/%E8%A6%8B%E9%80%83%E3%81%97)
+	- [サボる 英語 例文 - Google Search](https://www.google.com/search?sxsrf=AOaemvJWbdcwV_T86JPnlLPoqLzodHFpIA:1631603737614&q=%E3%82%B5%E3%83%9C%E3%82%8B+%E8%8B%B1%E8%AA%9E+%E4%BE%8B%E6%96%87&sa=X&ved=2ahUKEwjSzcbJ9f3yAhVNxzgGHag9CGQQ1QJ6BAgpEAE&biw=1692&bih=878)
+	- [でぶ - Google Search](https://www.google.com/search?q=%E3%81%A7%E3%81%B6&oq=%E3%81%A7%E3%81%B6&aqs=edge..69i57j0i4i512l7.1052j0j1&sourceid=chrome&ie=UTF-8)
+	- [気分が悪い 英語 - Google Search](https://www.google.com/search?q=%E6%B0%97%E5%88%86%E3%81%8C%E6%82%AA%E3%81%84+%E8%8B%B1%E8%AA%9E&oq=%E3%81%8D%E3%81%B6%E3%82%93%E3%81%8C&aqs=edge.1.69i57j0i67l3j0i4i512l2j0i67l3.2729j0j1&sourceid=chrome&ie=UTF-8)
+	-
 -
 - ## Other resources
 - [(3) List of sexual terms and fetishes : LearnJapanese](https://www.reddit.com/r/LearnJapanese/comments/6vog8a/list_of_sexual_terms_and_fetishes/?utm_medium=android_app&utm_source=share) - List of sexual terms and fetishes
 -
 - ## N4 - N5 Grammar
 - [「ものだ」用法小統整](https://www.facebook.com/story.php?story_fbid=3947691191929844&id=121678347864500) - 理所當然, 回憶, 感嘆
+- [接続詞について （一覧と解説）](https://pothos.blue/setuzokusi.htm)
+- [「～た後で」 V.S. 「～た後」-社群貼文-王可樂日語](https://colanekojp.com.tw/classroom_detail/127)
+- [N5文法30【助詞篇】「や」解析篇 — 時雨の町｜日文學習園地](https://www.sigure.tw/learn-japanese/grammar/n5/30.php)
+- [JLPT N4 Grammar: なければいけない (nakereba ikenai) Meaning – JLPTsensei.com](https://jlptsensei.com/learn-japanese-grammar/%E3%81%AA%E3%81%91%E3%82%8C%E3%81%B0%E3%81%84%E3%81%91%E3%81%AA%E3%81%84-nakereba-ikenai-meaning/)
+- [N4文法20「ておく」補助動詞 — 時雨の町｜日文學習園地](https://www.sigure.tw/learn-japanese/grammar/n4/20.php)
+- [N4文法33「のに」（逆接、目的） — 時雨の町｜日文學習園地](https://www.sigure.tw/learn-japanese/grammar/n4/33.php)
+- 【Ｎ４文法】～てしまう／ちゃう／でしまう／じゃう | 毎日のんびり日本語教師](http://nihongonosensei.net/?p=18323)
+- [JLPT N5 Grammar: つもり (tsumori) - Learn Japanese | JLPT Sensei](https://jlptsensei.com/learn-japanese-grammar/%E3%81%A4%E3%82%82%E3%82%8A-tsumori-meaning/)
+- [なんか - Jisho.org](https://jisho.org/search/%E3%81%AA%E3%82%93%E3%81%8B)
+- [N4文法30「～でございます」 — 時雨の町｜日文學習園地](https://www.sigure.tw/learn-japanese/grammar/n4/30.php)
+- [JLPT N4 Grammar: など (nado) Meaning – JLPTsensei.com](https://jlptsensei.com/learn-japanese-grammar/%E3%81%AA%E3%81%A9-nado-meaning/)
+- [JLPT N4 Grammar: そうだ (sou da) Meaning: I heard that.. – JLPTsensei.com](https://jlptsensei.com/learn-japanese-grammar/%E3%81%9D%E3%81%86%E3%81%A0-sou-da-i-heard-that/)
+- [連れて行く - Jisho.org](https://jisho.org/search/%E9%80%A3%E3%82%8C%E3%81%A6%E8%A1%8C%E3%81%8F)
+-
 -
 - ## N3 or above Grammar
--
+- [不要再用「強調」來解釋「には」 ！「には」各種用法、文法一次弄懂！-文章分享-王可樂日語](https://colanekojp.com.tw/blog_detail/49)
 -
 - # _IML Note Index_
 - [[IML_7A]]

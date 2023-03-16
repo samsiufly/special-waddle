@@ -7,3 +7,6 @@
 - [室內有氧運動第一名是它！有氧運動每小時燃脂300大卡](https://www.edh.tw/article/10390)
 - [爆汗徒手！15分鐘高強度全身居家運動 🔥連男神也撐不住的訓練組合？！Feat. 健人蓋伊](https://www.youtube.com/watch?v=M56to7gX6bE)
 - ![image.png](../assets/image_1678799007945_0.png)
+- Fasting
+	- [Intermittent Fasting Calculator – Fitness Volt](https://fitnessvolt.com/if-calculator/)
+-

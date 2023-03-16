@@ -3,6 +3,9 @@
 - # Ideas Generators
 - [Work in Progress - Harvard Graduate School of Design](https://www.gsd.harvard.edu/category/work-in-progress/) - To see how the top students in a top school play with architecture
 - [Zotero | Groups > Japanese Architecture](https://www.zotero.org/groups/34411/japanese_architecture)
+- [Archidose — Tumblr](https://archidose.tumblr.com/) - An **EXCELLENT** tumblr page sharing lots of architectural competition works, student works, exhibition works and more...
+  id:: 6412d04a-7989-4097-9d35-bb491018ec8a
+-
 -
 - Tutorial
 	- [Courses | ArchiStar Academy](https://academy.archistar.ai/training/courses)
@@ -17,4 +20,10 @@
 - [Architects Are Workers | ArchDaily](https://www.archdaily.com/955144/architects-are-workers?utm_medium=email&utm_source=Notifications&utm_campaign=daily&kth=5530594) - We learned that in our first lecture at uni that we might not be able to afford the things we designed
 - [Coding Architects Are the Future: Why (And How) to Start Learning Coding | HP Large Format Printers ](https://largeformat.hp.com/in/blog/coding-in-architecture-4-reasons-why-architects-should-learn-to-code#:~:text=The%20primary%20reason%20why%20architects,your%20career%20in%20many%20ways.&text=Coding%20is%20like%20getting%20under%20the%20hood%20of%20design%20software.)
 	- [How to Become a Software Developer | 9 Tips | Coursera](https://www.coursera.org/articles/software-developer)
-	-
+- Transformation of G, H, I Buildings, Grand Parc, 530 Units, Social Housing (with Frédéric Druot and Christophe Hutin), photo courtesy of Philippe Ruault [Anne Lacaton and Jean-Philippe Vassal | The Pritzker Architecture Prize](https://www.pritzkerprize.com/laureates/anne-lacaton-and-jean-philippe-vassal#laureate-page-2291)
+- [GA JAPAN 172](https://www.ga-ada.co.jp/japanese/ga_japan/gaj172.html)
+- [Gallery of The Dallas Holocaust ](https://www.archdaily.com/926223/the-dallas-holocaust-and-human-rights-museum-omniplan/5d9dd9a4284dd172410000eb-the-dallas-holocaust-and-human-rights-museum-omniplan-second-floor-plan?next_project=no)
+- [小堀哲夫建築設計事務所監修、大和ハウス工業が奈良に研修施設「大和ハウスグループ みらい価値共創センター」を開所 ｜BUSINESS｜TECTURE MAG（テクチャーマガジン）](https://mag.tecture.jp/business/20210929-40455/?fbclid=IwAR1hyVgGNu0NP2IKp7AGoXvPmStyLTZQ5nvx17K-I5fhy8gxWhnfzgSV6ms)
+-
+- ### Sustainability
+	- [Australian Shopping Centre Set To Become World's Most Sustainable](https://www.realcommercial.com.au/news/australian-shopping-centre-set-to-become-worlds-most-sustainable?rsf=ps%3Afacebook%3Arcanews%3Anat&fbclid=IwAR3zDnEp9HByN_gM6pJWK5Dczd_n7NXmYPFDO6Y_r1ZKbSGkobitCp5tW9E)

@@ -9,11 +9,18 @@
 - Understand Native English Speakers with this Advanced Listening Lesson - YouTube {{video }
 -
 - [Understand Native English Speakers with this Advanced Listening Lesson](https://www.youtube.com/watch?v=D6_qpaSxAQc) - Some tips for ESL living in English speaking countries or struggling with IELTS oral test
--
+- [認真，唔需要羨慕鬼佬 or ABC | LIHKG](https://lihkg.com/thread/2714111/page/1)
 -
 -
 - ## Grammar Check
 - [The Difference: Used to, Be Used to, Get Used to](https://learningenglish.voanews.com/a/the-difference-used-to-be-used-to-get-used-to/5245290.html)
 - [Remember or remind?](https://dictionary.cambridge.org/grammar/british-grammar/remember-or-remind)
 - [VOA English - out of the woods; out of the picture](https://www.51voa.com/Voa_English_Learning/Learn_A_Word_22846.html)
+- [分不清楚"Would have"、"Should have"和"Could have"的用法? 看過來吧! - Learn With Kak](https://www.learnwithkak.com/would-have-should-have-%E5%92%8C-could-have-%E7%9A%84%E7%94%A8%E6%B3%95/)
+- [Learning English - Exercises, Grammar, Vocabulary, Tests, Games](https://www.englisch-hilfen.de/en/) - Basic English rules
+- [hilarious - Google Search](https://www.google.com/search?q=hilarious&oq=halarious&aqs=edge.1.69i57j0i10i433l2j0i10j0i10i433j0i10l2.1632j0j1&sourceid=chrome&ie=UTF-8) - 非常滑稽的，引人發笑的。
+-
+- ### Expression
+	- [“Take you for a ride”是「開車載你兜風」的意思嗎? - Learn With Kak](https://www.learnwithkak.com/take-you-for-a-ride-%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E9%96%8B%E8%BB%8A%E8%BC%89%E4%BD%A0%E5%85%9C%E9%A2%A8%E7%9A%84%E6%84%8F%E6%80%9D%E5%96%94/)
+	- [to give devil his due - Google Search](https://www.google.com/search?q=to+give+devil+his+due&oq=to+give+devil+his+due&aqs=edge.0.0i512j0i22i30l7.4469j0j1&sourceid=chrome&ie=UTF-8)
 -
