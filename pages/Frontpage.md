@@ -7,6 +7,7 @@
 - # Site Admin
 - [[About me]]
 - [[Changelog]]
+- [special-waddle - GitHub](https://github.com/samsiufly/special-waddle)
 - # Using this Site
 - To navigate from page to page, utilise the post links below. Additionally, you can explore the links between these posts using the provided interactive graph. Every page is accessible starting from this welcome post! As you click on links and go deeper into the network, pages will appear or slide in from the right and collapse to the left, creating a breadcrumb through the pages.
 -

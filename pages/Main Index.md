@@ -19,7 +19,7 @@
 - [[Environment]]
 - [[Future]]
 - [[GIS]]
-- [[Cloud Compluting]]
+- [[CloudComputing]]
 - [[Hardware]]
 - [[Health]]
 - [[History]]
