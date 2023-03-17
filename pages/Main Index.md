@@ -9,6 +9,7 @@
 - [[Automation]]
 - [[Backup]]
 - [[Books]]
+- [[Browser]]
 - [[ChatGPT]]
 - [[China]]
 - [[Comics]]

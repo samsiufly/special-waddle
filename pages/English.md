@@ -2,7 +2,7 @@
 - [English Grammar - Cambridge Dictionary](https://dictionary.cambridge.org/grammar/british-grammar/) - Get clear grammar explanations with hundreds of examples of how grammar is used in natural written and spoken English.
 - [Thesaurus.plus - Online Thesaurus Dictionary of the English language](https://thesaurus.plus/) - a fast and useful online dictionary with many synonyms and antonyms in English
 - [Copy.ai: Write better marketing copy and content with AI](https://www.copy.ai/) - an AI-powered copywriter that generates high-quality copy for your business.
--
+- {{embed ((6414a26e-3978-4c9f-8101-f7dae3cb5e62))}}
 - [[English Vocab]]
 -
 - ## Tips Speak & Listen
