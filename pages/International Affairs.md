@@ -1,4 +1,5 @@
 - # _Main Index_
+	- [[The "Dirty" Economy Of Australia]] - Australia is a first world country with a third world economy and a bunch of rich people on the coast just buying houses off each other to feel richer.
 - [[China]]
 -
 - # Links

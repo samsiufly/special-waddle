@@ -6,3 +6,8 @@
 		- semi-unifi (gateway+wireless ap)
 	- Synology NAS DS218play + WD My Cloud Mitigation
 		- Total capacity x 2 = HDD required
+- macOS
+	- [[TimeMachine]]
+	- [Backblaze](https://www.backblaze.com/)
+-
+-
