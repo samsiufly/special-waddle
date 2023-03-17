@@ -38,6 +38,7 @@
 - [[macOS]]
 - [[Minimalism]]
 - [[Mobile devices]]
+- [[Movie]]
 - [[Music]]
 - [[News]]
 - [[Other interesting things]]
