@@ -16,6 +16,8 @@
 - [Guiding Values of PKM by LYT Kit](https://notes.linkingyourthinking.com/Cards/Guiding+Values+of+PKM) - Tips about PKM (**P**ersonal **K**nowledge **M**anegement)
 - [PKM Introduction - Fork My Brain](https://notes.nicolevanderhoeven.com/Personal+Knowledge+Management) - A general introduction to PKM
 - [PKM.social](https://pkm.social/) - an Mastodon instance that is open to anyone who is interested in Personal Knowledge Management
+- [How to set up your own digital garden - Ness Labs](https://nesslabs.com/digital-garden-set-up) - some tips about publishing your own digital garden to public
+-
 -
 -
 -

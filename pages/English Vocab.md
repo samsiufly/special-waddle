@@ -1,0 +1,7 @@
+-
+- ### B1 - B2
+	- Emphatic #card {{cloze "Emphatic" is an adjective that means expressing something forcibly and clearly, or done with emphasis. It's used to describe a strong and assertive statement, response, or action.}}
+	-
+- ### C1 - C2
+-
+- ### A1 - A2
