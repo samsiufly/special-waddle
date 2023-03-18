@@ -10,7 +10,7 @@
   :END:
 - [Logseq-Git-Sync-101](https://github.com/CharlesChiuGit/Logseq-Git-Sync-101) - This repo aims to help Logseq users to sync their data via Git and GitHub.
 	- [samsiufly/special-waddle: 1st digital garden](https://github.com/samsiufly/special-waddle) - my Github of the digital garden
-	-
+- [Logseq Times](https://www.logseqtimes.com/) - Latest logseq tips and info
 -
 - # PKM
 - [Guiding Values of PKM by LYT Kit](https://notes.linkingyourthinking.com/Cards/Guiding+Values+of+PKM) - Tips about PKM (**P**ersonal **K**nowledge **M**anegement)
