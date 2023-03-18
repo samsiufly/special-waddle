@@ -4,6 +4,8 @@
 - [[ラブライブ]]
 - [[NSFW]]
 - [[Akihabara]]
+- ### Streaming services
+	-
 - ### マクロス Macross
   collapsed:: true
 	- [Forums - Macross World Forums](https://www.macrossworld.com/mwf/) - a forum for Macross fans since 1999 (English only)
