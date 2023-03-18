@@ -5,6 +5,7 @@
 - [[NSFW]]
 - [[Akihabara]]
 - ### Streaming services
+	- [Anime01](https://anime1.me/)
 	-
 - ### マクロス Macross
   collapsed:: true
