@@ -1,6 +1,11 @@
 - # Ongoing project
-	- Townsville Solar Farm
-		-
--
+- [[Townsville Solar Farm]]
+- {{embed ((64154332-dc00-491e-9f4d-a29479d699c1))}}
+- [[Dardanup Hydrogen Valley]]
+- {{embed ((6415425e-0f85-4fbd-9ed6-67e31235c743))}}
+	-
+- ### Skillsets
+	- [[GIS]] - GIS online course
+	- [[Visualisation]] - SketchUp, Lumion, Rhino
 - ### Resources
 	- [World's Largest Hydrogen Plant Opens In Fukushima - FuelCellsWorks](https://fuelcellsworks.com/news/worlds-largest-hydrogen-plant-in-fukushima-opens/)
