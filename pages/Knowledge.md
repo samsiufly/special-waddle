@@ -10,16 +10,20 @@
 - Try to learn something new every day. If you do that then in a year you'll have learned 365 new things and be better off than the year before.
 -
 - # Links
-- [How Learning Happens: Seminal Works in Educational Psychology and What](https://www.routledge.com/How-Learning-Happens-Seminal-Works-in-Educational-Psychology-and-What-They/Kirschner-Hendrick/p/book/9780367184575?source=igodigital) - How Learning Happens **introduces 28 giants of educational research and their findings on how we learn and what we need to learn effectively, efficiently, and enjoyably**. Many of these works have inspired researchers and teachers all around the world and have left a mark on how we teach today.
+- ### Look for sth?
+	- [The A to Z of economics | The Economist](https://www.economist.com/economics-a-to-z) - brief explanation of economics terms
 -
 - # Learning Method
-- [Project-Based Learning and Problem-Based Learning (x-BL) | Office of Teaching and Learning](https://www.uvu.edu/otl/resources/group_work/pbl.html#:~:text=Project%2Dbased%20learning%20(PBL),mastery%20of%20the%20course%20content.) - During my undergraduate studies, I had the opportunity to experience problem and project-based learning methods.
+	- [Project-Based Learning and Problem-Based Learning (x-BL) | Office of Teaching and Learning](https://www.uvu.edu/otl/resources/group_work/pbl.html#:~:text=Project%2Dbased%20learning%20(PBL),mastery%20of%20the%20course%20content.) - During my undergraduate studies, I had the opportunity to experience problem and project-based learning methods.
+	- [How Learning Happens: Seminal Works in Educational Psychology and What](https://www.routledge.com/How-Learning-Happens-Seminal-Works-in-Educational-Psychology-and-What-They/Kirschner-Hendrick/p/book/9780367184575?source=igodigital) - How Learning Happens **introduces 28 giants of educational research and their findings on how we learn and what we need to learn effectively, efficiently, and enjoyably**. Many of these works have inspired researchers and teachers all around the world and have left a mark on how we teach today.
+	- [How To Use](https://neuracache.com/howto) - It helps you build your own powerful flash card deck!
+	  id:: 6414a26e-3978-4c9f-8101-f7dae3cb5e62
 -
 -
 - # Research Method
-- [How to build an essay - Learn HQ](https://www.monash.edu/learnhq/excel-at-writing/how-to-write.../essay/how-to-build-an-essay) - structuring an academic essay
-- [Purpose of Guide - Organizing Your Social Sciences Research Paper - Research Guides at University of Southern California](https://libguides.usc.edu/writingguide)
-- [Verbs for Referring to Sources | Writing Advice](https://advice.writing.utoronto.ca/english-language/referring-to-sources/) -  **Pattern 1**: *reporting verb* + **that** + *subject* + *verb*
+	- [How to build an essay - Learn HQ](https://www.monash.edu/learnhq/excel-at-writing/how-to-write.../essay/how-to-build-an-essay) - structuring an academic essay
+	- [Purpose of Guide - Organizing Your Social Sciences Research Paper - Research Guides at University of Southern California](https://libguides.usc.edu/writingguide)
+	- [Verbs for Referring to Sources | Writing Advice](https://advice.writing.utoronto.ca/english-language/referring-to-sources/) -  **Pattern 1**: *reporting verb* + **that** + *subject* + *verb*
 -
 - # Note Taking Method
 - ### Zettelkasten Method

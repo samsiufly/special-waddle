@@ -10,6 +10,8 @@
 - [NHK Learn Japanese](https://www3.nhk.or.jp/nhkworld/en/learnjapanese/]) - Japan's only public media organisation NHK provides a variety of lesson programs plus news in simple Japanese
 - [Maggie Sensei](https://maggiesensei.com/) - Maggie Sensei is a Japanese grammar guide site designed to teach Japanese as it is used in everyday life. The site's mascot is a dog named Maggie.
 - [ToFuGu Resources](https://www.tofugu.com/japanese-learning-resources-database/) - Lot Lot Lots of Japanese learning resources
+- #### Revision method
+- {{embed ((6414a26e-3978-4c9f-8101-f7dae3cb5e62))}}
 -
 - [日本語表現インフォ](https://hyogen.info/) -The website is simple and well-organised, with expressions categorised by emotion, sensation, or person. There are also subcategories, such as expressions for different levels of sadness. (Japanese)
 - [出口仁 CHANNEL](https://www.youtube.com/@deguchi) - 出口先生ユーチューブ無料授業 中国語＋日本語

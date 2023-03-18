@@ -8,4 +8,5 @@
 - [ChatGPT Inline Bot on Telegram](https://chatgptontelegram.com/) ([HN](https://news.ycombinator.com/item?id=35053101))
 - [TypingMind](https://www.typingmind.com/) - More Beautiful UI for ChatGPT
 - [Integration of ChatGPT, Stable Diffusion, and Eleven Labs](https://aidev.codes/) ([HN](https://news.ycombinator.com/item?id=35113219))
+- [AI and Xmind : How to Create A Mind Map with ChatGPT - Xmind: The Most Popular Mind Mapping App on The Planet.](https://xmind.app/blog/chatgpt-and-xmind-how-to-create-a-mind-map-with-chatgpt/) - Use ChatGPT to draw mind map; XMIND is a MD compatible tool
 -

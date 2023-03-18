@@ -340,7 +340,7 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :zotero/settings-v2 nil
- :graph/settings {:journal? false, :builtin-pages? false, :excluded-pages? false, :orphan-pages? true}
+ :graph/settings {:journal? true, :builtin-pages? true, :excluded-pages? true, :orphan-pages? true}
 
  ;; specify the format of the filename for journal files
  ;; :journal/file-name-format "yyyy_MM_dd"

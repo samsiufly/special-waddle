@@ -1,0 +1,8 @@
+- ### PC Requirement [[Mar 18th, 2023]]
+	- CPU: i9 13900 or equivalent
+	- RAM: 64GB expandable
+	- GPU: 4070 or above
+	- SSD: At least two PCIE 4.0 x 4; minimum capacity = 2TB
+	- Battery life: More than 4hrs
+	- Screen: Refresh rate at least 144Hz; DCI-P3......
+-

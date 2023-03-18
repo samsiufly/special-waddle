@@ -1,3 +1,5 @@
+public:: true
+
 - ![cover_01.jpeg](../assets/cover_01_1678890073138_0.jpeg)
 - # Welcome🤳🏽
 - Welcome! This site is primarily an exploration of history of Hong Kong & East-Asia, international affairs, politics, social issues, economics, architecture, how to manage knowledge and philosophy. (Early 2021)
@@ -6,7 +8,11 @@
 - I am still thinking of the name of this site. I can call it my own digital garden or personal wiki. But I want to have a more interesting name. [[Mar 13th, 2023]]
 - # Site Admin
 - [[About me]]
-- [[Changelog]]
+- ### Changelog
+	- #IN-PROGRESS [[personal library]] - to build a private, multi-platform ebook library
+	- #TODO
+	- Tag system
+- [special-waddle - GitHub](https://github.com/samsiufly/special-waddle)
 - # Using this Site
 - To navigate from page to page, utilise the post links below. Additionally, you can explore the links between these posts using the provided interactive graph. Every page is accessible starting from this welcome post! As you click on links and go deeper into the network, pages will appear or slide in from the right and collapse to the left, creating a breadcrumb through the pages.
 -
