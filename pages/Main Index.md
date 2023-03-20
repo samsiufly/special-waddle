@@ -32,7 +32,7 @@
 - [[Knowledge]]
 - [[Life]]
 - [[Laptop]]
-- [[Link Share]]
+- [[Sharing]]
 - [[Logseq]]
 - [[ラブライブ]]
 - [[Networking]]

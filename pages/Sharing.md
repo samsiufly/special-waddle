@@ -1,0 +1,53 @@
+- # Some digital gardens I like
+	- [Everything I know](https://wiki.nikiv.dev/) - An excellent personal wiki by a software engineer
+	- [My Knowledge Base](https://knowledge-lardissone.vercel.app/) - By Leandro Ardissone, a full stack software developer from Argentina
+	- [Start Here by qwxlea](https://qwxlea.github.io/#/page/Start%20here)
+	- [Agency make me do it](http://hyperphor.com/ammdi/Index-Date) - AMMDI is an open-notebook hypertext writing experiment, authored by Mike Travers
+	- [Rowan's Digital Garden](https://publish.obsidian.md/rowandigitalgarden/%F0%9F%8F%A0Home)
+	-
+- # My Workflow
+	- ## Task manager
+		- [Todoist](https://todoist.com/) - Personal and project task in different tags; following GTD methodology
+		- [nikiv's todo list](https://nikiv.notion.site/) - A Good idea of todo list
+	- ## Planner
+		- [Fantastical](https://flexibits.com/fantastical) - an excellent app Integrating calendar and todo application
+	- ## Chat
+		- [[Discord]] - communities of ACG, Vtuber, Gaming,
+		- [[Whatsapp]] - Instant message app
+		- [[Telegram]] - become an anonymous
+		- [[WeChat]] - Best and indispensable IM app in China for survival
+		- [[Line]] - communities of ACG, Vtuber, Japanese-related friends
+		- [[Signal]] - Instant message app, alternative to [[Whatsapp]]
+	- ## Video conferencing
+		- [[Discord]] - supports game streaming
+		- [[zoom]] - an easy-to-use app for meeting and collaboration
+	- ## Index
+		- [[Raycast]] - How to search a note with Raycast quickly
+	- ## Photo
+		- Google photos - My personal photo/video/images downloaded and received via messenger apps
+		- Apple photos - exclusively for iOS
+	- ## Track
+		- [[Tracking]] - Track TV, animes, comics, games...
+		- [[My belongings]] - Timeline of things I have
+	- ## News
+		- [Staying on top of things](https://wiki.nikiv.dev/research/staying-on-top-of-things) - A great approach by Nikiv
+- # Things I own
+	- ## Tech
+		- MacBook Pro 13inch Touch Bar M1/8GB/512GB SSD
+		- ASUS ROG Zephyrus GU502GW 9750H/2070 max-q/32GB/2TB
+		- iPhone 12 Pro 128GB
+		- iPhone 8 64GB
+		- iPad 6th 128GB with Pencil
+		- Samsung A8S 128GB
+		- Oculus Quest 2
+		- Kobo Nia
+		- QCY-T17
+		- Shure 535 LTD
+		- Fiio KA3 USB DAC+AMP
+	- ### Gadgets idea
+		- [Is Cooking with an Air Fryer Healthy?](https://www.healthline.com/nutrition/air-fryer#bottom-line) - Yes, but it cooks longer and food is less tasty than deep fried food.
+		- [Ask HN: What sub $200 product improved your 2022](https://news.ycombinator.com/item?id=34272687)
+		- [Ask HN: What $500-2500 product improved your 2022](https://news.ycombinator.com/item?id=34279146)
+		- [Ask HN: What are some of your “buy it for life” purchases? (2023)](https://news.ycombinator.com/item?id=34378254)
+	- What affordable thing improved your 2022?
+	-

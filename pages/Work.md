@@ -1,3 +1,4 @@
+- IE-Email [here](http://hostedwebmail.iinet.net.au/zimbra/mail)
 - # Ongoing project
 - [[Townsville Solar Farm]]
 - {{embed ((64154332-dc00-491e-9f4d-a29479d699c1))}}
@@ -7,5 +8,9 @@
 - ### Skillsets
 	- [[GIS]] - GIS online course
 	- [[Visualisation]] - SketchUp, Lumion, Rhino
+- ### Small Skills
+	- [用 Markdown 做的 PPT，真的太强了！ - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1940743) - Generate PowerPoint from Markdown MD
+	-
 - ### Resources
 	- [World's Largest Hydrogen Plant Opens In Fukushima - FuelCellsWorks](https://fuelcellsworks.com/news/worlds-largest-hydrogen-plant-in-fukushima-opens/)
+	- [QS Tool Books](https://www.evernote.com/shard/s259/nl/34502201/2c698609-ef75-5d2b-b8eb-572cb5543704?title=Quantity%20Surveyor%20Toolbox%20for%20architects)

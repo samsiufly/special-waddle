@@ -1,0 +1,5 @@
+- [Code Pen](https://codepen.io/) - front end code sharing website
+- https://dribbble.com/
+- pinterest
+- https://github.com/learn-anything/curated-lists
+-
