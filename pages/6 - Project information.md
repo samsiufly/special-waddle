@@ -1,0 +1,37 @@
+- **Project title and description**
+	- Provide a project title. 75c
+	- Provide a brief project description for publication. 750c
+- **Detailed project description and key activities**
+	- (This information will be included in your grant agreement if your application is successful.)
+	- (You must also provide a project plan which you should attach later in your application. Refer to the grant opportunity guidelines for the requirements of the project plan.)
+	- Provide a detailed description of your project including the project scope and key activities. 5000c
+- **Project outcomes**
+	- (This information will be included in your grant agreement if your application is successful.)
+	- Provide a summary of the expected project outcomes. 5000c
+- **Project duration**
+	- (We estimate your project start date will be around October 2023.)
+	- (Your project must be completed by 30 March 2027.)
+	- Estimated project start date
+	- Estimated project end date
+	- Estimated project length (in months)
+- **Project milestones**
+	- Provide details on the project milestones including the key activities occurring at each milestone.
+	- (The milestone start and end dates must be within the project start and end dates.)
+	- The milestone start and end dates must be within the project start and end dates.
+		- Milestone title
+		- Description (no character limits)
+		- Estimated start date
+		- Estimated end date
+- **Project location**
+	- (Your project must be delivered in the Townsville region in northern Queensland.)
+	- Project Site 1 (Add another address if more than one site is included in this application)
+		- Address
+		- Estimated % of project value expected to be undertaken at site
+- **Foreign affiliations**
+	- Does your project receive any funding or non-financial support from a foreign source?
+	- Do any entities or key personnel involved with the project receive financial support or benefits from a foreign source?
+	- Do any entities or key personnel involved with the project have any current or former association with a foreign talent program?
+	- Do any entities or key personnel involved with the project have any ties to a foreign government, military or state-owned enterprise?
+- **National security plan**
+	- Does your organisation have a plan or framework in place to manage any potential security risks associated with the project and your organisation more broadly?
+	- (This includes parotecting your organisation from potential national security risks including cyber security threats and the secure handling of data. We may ask for a copy of your plan or framework at a later stage.)

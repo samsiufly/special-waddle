@@ -16,6 +16,7 @@
 	  background-color:: yellow
 	- OS: [[Ubuntu]]
 	- VPS Provider: [vmiss (Canada)](https://app.vmiss.com/clientarea.php)
+	  id:: 6414801c-92aa-4e77-9b26-2179ebe14659
 	- Sharing protocol: OPDS link: "domain name"/opds
 	- OPDS compatible apps : [App List](- OPDS compatible apps : - Koreader on Kobo ([https://github.com/koreader/koreader](https://github.com/koreader/koreader)) has a compatible OPDS browser.)
 	- ((64147bf9-5e52-4630-8448-befc5c6fce26)) - to make the application running in the background

@@ -1,0 +1,10 @@
+- (The primary contact is the person authorised to act on behalf of the applicant and we send all email correspondence to this person. If you are not the primary contact, we will send an email to this person to invite them to register as a participant in the application. It is important that they register, or our emails will not be received. We recommend you let them know this.)
+- (If these details change, inform us as soon as possible so emails can be redirected.)
+- Title
+- Given Name
+- Family Name
+- Position Title
+- Email Address
+- Phone Number
+- Mobile Number
+- Primary Address

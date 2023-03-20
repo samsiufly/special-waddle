@@ -1,0 +1,49 @@
+- We will assess your application based on the weighting given to each criterion and against the indicators listed beneath each criterion. We will only consider funding applications that score at least 50 per cent against each criterion, as these represent best value for money.
+- The amount of detail and supporting evidence you provide should be commensurate with the project size, complexity and grant amount requested. You should define, quantify and provide evidence to support your answers.
+- ### 5000 characters for each criterion
+- **Assessment criterion 1**
+	- Project alignment with policy intent *
+	- Score out of 25
+	- The extent that your proposed project will facilitate the development of a regional industrial hub and accelerate the creation of an export and/or domestic green hydrogen industry.
+	- You should demonstrate this by identifying:
+		- the commercial potential of your hydrogen hub including the potential volume of domestic and international hydrogen it will supply, the sectors impacted and/or demand your project may create
+		- how your project will create, leverage and advance domestic and/or export demand linkages, supply chains and international partnerships and/or offtake arrangements
+		- how well your project connects with and supports existing Australian industry both in the region and more broadly, while providing a clear pathway, in the short and medium term, to:
+			- produce green hydrogen
+			- lower the production costs of hydrogen, and/or
+			- transform existing industrial processes to use green hydrogen in the Townsville region.
+- **Assessment criterion 2**
+	- Utilising existing infrastructure to support the development of a green Hydrogen Hub *
+	- Score out of 25
+	- The extent that your project will utilise and support existing industrial capacity and infrastructure to build an ongoing Australian green hydrogen capability.
+	- You should demonstrate this by identifying:
+		- how the consortia will support the development of a hydrogen hub through leveraging existing infrastructure and/or the development of common user infrastructure
+		- how your project will leverage and support co-located Australian industry in the Townsville region
+		- your proposed strategy to source water as an input, including the type of water
+		- your proposed strategy for knowledge sharing with the emerging Australian hydrogen industry including learnings and understanding of future export supply chains
+		- how your proposed project will address workforce capability gaps and contribute to sector-wide workforce development strategies and build on the existing Townsville region’s workforce’s capability
+		- the green hydrogen production method you will use
+		- how your proposed hub complements and builds on other activity intended to grow the Australian green hydrogen industry
+		- economic impacts of your hub, including the extent that your project will generate jobs and investment in regional Australia.
+- **Assessment criterion 3**
+	- Your capacity, capability and resources to establish a hydrogen hub *
+	- Score out of 25
+	- You should demonstrate this by identifying:
+		- how your consortium is suited to deliver this hub project
+		- the track record of your consortium, or individual organisations within the consortium, in developing major projects and leveraging additional investment (from both within Australia and overseas). Also, your access to personnel with relevant skills and experience, including project management and technical expertise
+		- your access to required finance, infrastructure, capital equipment, technology and intellectual property
+		- your project plan, including your plan to:
+		- manage the project including scope, governance, implementation methodology and timeframes
+		- mitigate delivery risks (including safety, commercial and environmental risks)
+		- secure required regulatory or other approvals.
+		- how you will leverage existing capability, including the strength of your partnerships and engagement within the proposed hub
+		- your existing and proposed linkages with research organisations and other businesses, including current research or pilot activities
+		- the level of support your project has from the relevant state/territory government, and/or local level of government.
+- **Assessment criterion 4**
+	- The Impact of grant funding *
+	- Score out of 25
+	- You should demonstrate this by identifying:
+		- the need for grant funding and why grant funding is required to progress the project including how the funding will enhance the commercial viability of the existing and the future Australian green hydrogen industry and support Australian industry more broadly
+		- additional investment that will be leveraged by your consortium to establish your hub
+		- the broader social and environmental impacts of your hub including your strategy to manage waste by-product and consideration of water sustainability
+		- community support for your hub within local and regional communities, including First Nations communities.

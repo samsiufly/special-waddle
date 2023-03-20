@@ -9,6 +9,7 @@ public:: true
 - # Site Admin
 - [[About me]]
 - ### Changelog
+	- Added:  Journals section as my Inbox.
 	- Tag system
 	- #IN-PROGRESS ((641466d3-b48e-483b-976b-f8a82e0f5cca)) - to build a private, multi-platform ebook library
 	- #TODO

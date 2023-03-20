@@ -1,0 +1,10 @@
+- You must provide details about your project partners.
+- You must provide a letter of support from each project partner. See section 7.3 of the grant opportunity guidelines.
+- Each partner
+	- Is the project partner a trustee on behalf of a trust?
+	- ### Project partner address
+		- Is the address located in Australia?
+		- You must upload your letter of support from your project partner here.
+		- *Files must be smaller than _2.0 MB_, and be one of the following types: doc, docx, rtf, pdf, xls, xlsx, csv, jpg, jpeg, png, gif.*
+-
+-

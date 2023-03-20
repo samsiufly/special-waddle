@@ -18,6 +18,7 @@
 - [[Documentaries]]
 - [[English]]
 - [[Environment]]
+- [[Fashion]]
 - [[Future]]
 - [[GIS]]
 - [[CloudComputing]]

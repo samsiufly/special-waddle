@@ -1,0 +1,9 @@
+- ### Glasses
+	- Sunglasses I have - RayBan
+	- Daily use glasses - RayBan
+- ### Fast-fashion
+	- Uniqlo
+	- Zara
+	- H&M
+- ### Other?
+	- 麻油雞brand?
