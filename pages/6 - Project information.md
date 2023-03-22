@@ -1,13 +1,13 @@
 - **Project title and description**
-	- Provide a project title. 75c
-	- Provide a brief project description for publication. 750c
+	- Provide a project title. 75 characters
+	- Provide a brief project description for publication. 750 characters
 - **Detailed project description and key activities**
 	- (This information will be included in your grant agreement if your application is successful.)
 	- (You must also provide a project plan which you should attach later in your application. Refer to the grant opportunity guidelines for the requirements of the project plan.)
-	- Provide a detailed description of your project including the project scope and key activities. 5000c
+	- Provide a detailed description of your project including the project scope and key activities. 5000 characters
 - **Project outcomes**
 	- (This information will be included in your grant agreement if your application is successful.)
-	- Provide a summary of the expected project outcomes. 5000c
+	- Provide a summary of the expected project outcomes. 5000 characters
 - **Project duration**
 	- (We estimate your project start date will be around October 2023.)
 	- (Your project must be completed by 30 March 2027.)
