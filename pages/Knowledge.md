@@ -1,13 +1,15 @@
-- Author: Thomas Oppong
-  [https://medium.com/personal-growth/seeking-wisdom-lessons-on-becoming-an-outstanding-thinker-e9668079a939](https://medium.com/personal-growth/seeking-wisdom-lessons-on-becoming-an-outstanding-thinker-e9668079a939)
-- Society values knowledge, intelligence and wisdom
-- But knowing the level of your ignorance is important for acquiring knowledge
-- Ignorance is dangerous when you think you know everything and it hinders your progress
-- An example: you'll make no progress with martial arts if you think of a black belt as being "knowing everything". You'll stop putting in the work and stall.
-- But if you're accepting that it's a level of knowledge where you've acquired the basics, and the next steps are re-learning and refining then you'll continue to improve.
-- The first thing I did as a black belt was go back to white belt techniques and relearn them but improve them each time.
-- Ignorance not so much a shame as being unwilling to learn
-- Try to learn something new every day. If you do that then in a year you'll have learned 365 new things and be better off than the year before.
+- ## GTD Method
+- ![](https://miro.medium.com/v2/resize:fit:1400/1*8AZkXUwQPMCPwCwQAeXeTQ.png)
+-
+- Author: Thomas Oppong [link](https://medium.com/personal-growth/seeking-wisdom-lessons-on-becoming-an-outstanding-thinker-e9668079a939)
+	- Society values knowledge, intelligence and wisdom
+	- But knowing the level of your ignorance is important for acquiring knowledge
+	- Ignorance is dangerous when you think you know everything and it hinders your progress
+	- An example: you'll make no progress with martial arts if you think of a black belt as being "knowing everything". You'll stop putting in the work and stall.
+	- But if you're accepting that it's a level of knowledge where you've acquired the basics, and the next steps are re-learning and refining then you'll continue to improve.
+	- The first thing I did as a black belt was go back to white belt techniques and relearn them but improve them each time.
+	- Ignorance not so much a shame as being unwilling to learn
+	- Try to learn something new every day. If you do that then in a year you'll have learned 365 new things and be better off than the year before.
 -
 - # Links
 - ### Look for sth?
@@ -18,6 +20,7 @@
 	- [How Learning Happens: Seminal Works in Educational Psychology and What](https://www.routledge.com/How-Learning-Happens-Seminal-Works-in-Educational-Psychology-and-What-They/Kirschner-Hendrick/p/book/9780367184575?source=igodigital) - How Learning Happens **introduces 28 giants of educational research and their findings on how we learn and what we need to learn effectively, efficiently, and enjoyably**. Many of these works have inspired researchers and teachers all around the world and have left a mark on how we teach today.
 	- [How To Use](https://neuracache.com/howto) - It helps you build your own powerful flash card deck!
 	  id:: 6414a26e-3978-4c9f-8101-f7dae3cb5e62
+	-
 -
 -
 - # Research Method

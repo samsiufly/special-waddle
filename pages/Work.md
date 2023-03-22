@@ -1,6 +1,6 @@
 - IE-Email [here](http://hostedwebmail.iinet.net.au/zimbra/mail)
 - # Ongoing project
-- [[Townsville Solar Farm]]
+- [[Project Note - Townsville Solar Farm]]
 - {{embed ((64154332-dc00-491e-9f4d-a29479d699c1))}}
 - [[Dardanup Hydrogen Valley]]
 - {{embed ((6415425e-0f85-4fbd-9ed6-67e31235c743))}}

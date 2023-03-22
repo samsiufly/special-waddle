@@ -33,17 +33,24 @@
 		- [Staying on top of things](https://wiki.nikiv.dev/research/staying-on-top-of-things) - A great approach by Nikiv
 - # Things I own
 	- ## Tech
-		- MacBook Pro 13inch Touch Bar M1/8GB/512GB SSD
-		- ASUS ROG Zephyrus GU502GW 9750H/2070 max-q/32GB/2TB
-		- iPhone 12 Pro 128GB
-		- iPhone 8 64GB
-		- iPad 6th 128GB with Pencil
-		- Samsung A8S 128GB
-		- Oculus Quest 2
-		- Kobo Nia
-		- QCY-T17
-		- Shure 535 LTD
-		- Fiio KA3 USB DAC+AMP
+		- ### Computer
+			- MacBook Pro 13inch Touch Bar M1/8GB/512GB SSD
+			- ASUS ROG Zephyrus GU502GW 9750H/2070 max-q/32GB/2TB
+		- ### Mobile phone
+			- iPhone 12 Pro 128GB
+			- iPhone 8 64GB
+			- iPad 6th 128GB with Pencil
+			- Samsung A8S 128GB
+		- ### Other Portable devices
+			- Oculus Quest 2
+			- Kobo Nia
+		-
+		- ### Earphones
+		  id:: 6419ac2f-0098-4cce-b48d-b3dc8cd75692
+			- QCY-T17
+			- Razer BlackShark V2 + USB Sound Card
+			- Shure 535 LTD
+			- Fiio KA3 USB DAC+AMP
 	- ### Gadgets idea
 		- [Is Cooking with an Air Fryer Healthy?](https://www.healthline.com/nutrition/air-fryer#bottom-line) - Yes, but it cooks longer and food is less tasty than deep fried food.
 		- [Ask HN: What sub $200 product improved your 2022](https://news.ycombinator.com/item?id=34272687)

@@ -24,6 +24,13 @@
 - [GA JAPAN 172](https://www.ga-ada.co.jp/japanese/ga_japan/gaj172.html)
 - [Gallery of The Dallas Holocaust ](https://www.archdaily.com/926223/the-dallas-holocaust-and-human-rights-museum-omniplan/5d9dd9a4284dd172410000eb-the-dallas-holocaust-and-human-rights-museum-omniplan-second-floor-plan?next_project=no)
 - [小堀哲夫建築設計事務所監修、大和ハウス工業が奈良に研修施設「大和ハウスグループ みらい価値共創センター」を開所 ｜BUSINESS｜TECTURE MAG（テクチャーマガジン）](https://mag.tecture.jp/business/20210929-40455/?fbclid=IwAR1hyVgGNu0NP2IKp7AGoXvPmStyLTZQ5nvx17K-I5fhy8gxWhnfzgSV6ms)
+- [芸術展2020](http://waa-archifest.com/1st/comparison.html) - 早稻田大學 2020 住宅比較課題
+-
+-
+-
+-
+-
+- -----
 -
 - ### Sustainability
 	- [Australian Shopping Centre Set To Become World's Most Sustainable](https://www.realcommercial.com.au/news/australian-shopping-centre-set-to-become-worlds-most-sustainable?rsf=ps%3Afacebook%3Arcanews%3Anat&fbclid=IwAR3zDnEp9HByN_gM6pJWK5Dczd_n7NXmYPFDO6Y_r1ZKbSGkobitCp5tW9E)

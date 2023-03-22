@@ -2,6 +2,10 @@
 - [港中大中國研究服務中心面臨「重組」，學者憂「中國研究的麥加」將不復存在 - BBC News 中文](https://www.bbc.com/zhongwen/trad/world-55441519)
 - [律政司明言：沒有"無罪假定"　張達明：國安法完全顛覆香港普通法 | LIHKG](https://lihkg.com/thread/2351647/page/1) - 香港法律學者張達明接受本台訪問時稱，當中反映《國安法》完全顛覆香港普通法，亦與香港本地法律存有不少矛盾。Late 2020
 -
+- ### LIHKG
+	- [香港人邊一啲嘅文化/觀念，大家覺得唔應該再傳承落去？ | LIHKG](https://lihkg.com/thread/3332376/page/1) - 香港人邊一啲嘅文化/觀念，大家覺得唔應該再傳承落去？
+	- [(6) Open Radio Hong Kong - YouTube](https://www.youtube.com/@openradiohk/videos) - 香港開台YouTube Channel 已停止營運
+	-
 -
 - 消失的店舖
 	- [黃埔玩具店](https://www.facebook.com/725142671/posts/pfbid049zPGzawbtMgtfWqvEpkbPvCPYAA8m7zEdgWpv462LSVBbdxNkB2qCUfXRWvB9ntl/?app=fbl) - 沒有機會前去參觀

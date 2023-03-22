@@ -1,0 +1,14 @@
+- Earphones I own
+	- {{embed ((6419ac2f-0098-4cce-b48d-b3dc8cd75692))}}
+- -----
+- Fiio KA3
+	- [飛傲“小尾巴”KA3簡要介紹和使用技巧飛傲社區|飛傲官方論壇|飛傲產品官方交流平台](https://bbs.fiio.com/note/showNoteContent.do?id=202110281524461646528)
+-
+-
+- ----
+- ### Audio Tech
+	- [【緋色分享】什麼是MQA？MQA一定就是好？關於MQA你需要了解的所有事 | 緋色の耳姬隨筆](https://hishoku.me/1121/all-about-mqa/)
+	- [影音視聽討論區 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/B.php?bsn=60535)
+	- [【閒聊】最近收了什麼音樂？有好聽的音樂想分享嗎？ @影音視聽討論區 哈啦板 - 巴哈姆特](https://forum.gamer.com.tw/C.php?bsn=60535&snA=18418&tnum=746)
+	- [(4) headphones: cans for nerds, stuff that matters - reddit](https://www.reddit.com/r/headphones/)
+	-
