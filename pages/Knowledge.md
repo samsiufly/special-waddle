@@ -40,7 +40,7 @@
 	-
 - [Staying Organized: Hunting for the perfect workflow - Life in the desert](https://cdint.weebly.com/chris/staying-organized) - A workflow can help you achieve more and more!
 - [Zotero and Evernote Workflow - Evernote Integrations - Evernote User Forum](https://discussion.evernote.com/forums/topic/89625-zotero-and-evernote-workflow/?tab=comments#comment-383779) - Outdated as I haven't used Zotero in many years after finishing my last research course
--
+- [Effie - All About Writing](https://www.effie.pro/blog/) - some note-taking tips
 -
 -
 -

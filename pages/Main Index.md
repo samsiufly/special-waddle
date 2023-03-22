@@ -1,60 +1,60 @@
-- [[About me]]
+- [[About me]] 🏗️
 - [[Anime]]
-- [[Architecture]]
-- [[Archive]]
-- [[Art]]
-- [[Articles]]
-- [[Artificial Intelligence]]
-- [[AutoLISP]]
-- [[Automation]]
-- [[Backup]]
-- [[Books]]
-- [[Browser]]
-- [[ChatGPT]]
-- [[China]]
-- [[Comics]]
-- [[Courses]]
-- [[Design]]
-- [[Documentaries]]
-- [[English]]
-- [[Environment]]
-- [[Fashion]]
-- [[Future]]
-- [[GIS]]
-- [[CloudComputing]]
-- [[Hardware]]
-- [[Health]]
-- [[History]]
-- [[Hong Kong]]
-- [[International Affairs]]
-- [[Japan]]
-- [[Japanese]]
-- [[Knowledge]]
-- [[Life]]
-- [[Laptop]]
-- [[Sharing]]
-- [[Logseq]]
-- [[ラブライブ]]
-- [[Networking]]
+- [[Architecture]] ✒️
+- [[Archive]] 💽
+- [[Art]] 🎭
+- [[Articles]] 📜
+- [[Artificial Intelligence]] 🤖
+- [[AutoLISP]] 🧑‍💻
+- [[Automation]] 🧑‍💻
+- [[Backup]] 💾
+- [[Books]] 📖
+- [[Browser]] 🅱️🅾️
+- [[ChatGPT]] 🤖🤖🤖 ✍️📝
+- [[China]] 🏮😡🥵
+- [[Comics]] 📖
+- [[Courses]] 🏫
+- [[Design]] ✒️🖊️
+- [[Documentaries]] 🎥
+- [[English]] 👨‍🦰👨‍🦱👨‍🦳🙆‍♂️
+- [[Environment]] ♻️
+- [[Fashion]] 👔🥻👖
+- [[Future]] 💫
+- [[GIS]] 🗺️
+- [[CloudComputing]] ☁️
+- [[Hardware]] 💻
+- [[Health]] 🧑‍⚕️❤️‍🩹
+- [[History]] 📚
+- [[Hong Kong]] 🧧
+- [[International Affairs]] 🤒☠️
+- [[Japan]] 🗾
+- [[Japanese]] 🈁🈂️
+- [[Knowledge]] 🏫
+- [[Life]] 👲
+- [[Laptop]] 💻
+- [[Sharing]] 🤚🫲🫳
+- [[Logseq]] 📔📝
+- [[ラブライブ]] 🎶👧👧
+- [[Networking]] ⚙️
 - [[NSFW]] 🔞
-- [[macOS]]
-- [[Minimalism]]
-- [[Mobile devices]]
-- [[Movie]]
-- [[Music]]
-- [[News]]
+- [[macOS]] 💻
+- [[Minimalism]] 💆‍♀️
+- [[Mobile devices]] 📲💻
+- [[Movie]] 🍿🎬
+- [[Music]] 🎶
+- [[News]] 🗞️
 - [[Other interesting things]]
-- [[Online Tools]]
-- [[Philosophy]]
-- [[Photography]]
-- [[Physics]]
+- [[Online Tools]] ⚒️🔍
+- [[Philosophy]] 🤔
+- [[Photography]] 📸
+- [[Physics]] 🧑‍🔬
 - [[Privacy]] 🔑
-- [[programming]]
-- [[Travel]]
-- [[Urban Design]]
-- [[Virtual Reality]]
-- [[Vtuber]]
-- [[Watches]]
-- [[Web Services]]
-- [[Work]]
-- [[Writing]]
+- [[programming]] 🧑‍💻
+- [[Travel]] 🌏
+- [[Urban Design]] 🏙️
+- [[Virtual Reality]] 🕶️
+- [[Vtuber]] 🎙️👧🌠
+- [[Watches]] ⌚
+- [[Web Services]] 🧑‍💻
+- [[Work]] 👨‍💼
+- [[Writing]] 📝

@@ -1,0 +1,5 @@
+- <iframe src=https://indify.co/widgets/live/weather/p6l68TLMYEy1WV0JURiH  style="width: 100%; height: 200px"></iframe>
+-
+- <iframe src=https://indify.co/widgets/live/countdown/o9WrIykskV5ZBsp6FUrz  style="width: 100%; height: 100px"></iframe>
+- <iframe src=https://indify.co/widgets/live/clock/Ks2LciW8IjWWVI7ywVxH style="width: 100%; height: 100px"></iframe>
+- <iframe src=https://apption.co/embeds/cf3f914e style="width: 70%; height: 420px"></iframe>

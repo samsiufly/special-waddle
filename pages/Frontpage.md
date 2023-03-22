@@ -6,21 +6,21 @@ public:: true
 - In 2022 I started putting computer related articles and link to here.
 - In 2023 I changed the platform from obsidian to Logseq.
 - I am still thinking of the name of this site. I can call it my own digital garden or personal wiki. But I want to have a more interesting name. [[Mar 13th, 2023]]
-- # Site Admin
-- [[About me]]
+- # Site Admin ⌨️
+- [[About me]] 🏗️
 - ### Changelog
 	- Added:  Journals section as my Inbox.
 	- Tag system
-	- #IN-PROGRESS ((641466d3-b48e-483b-976b-f8a82e0f5cca)) - to build a private, multi-platform ebook library
-	- #TODO
-	- #CANCELED
-	- #DONE
-	- #LATER
-	- #NOW
-	- #DOING
-	- #WAITING
-	-
-- [special-waddle - GitHub](https://github.com/samsiufly/special-waddle)
+	  collapsed:: true
+		- #IN-PROGRESS ((641466d3-b48e-483b-976b-f8a82e0f5cca)) - to build a private, multi-platform ebook library
+		- #TODO
+		- #CANCELED
+		- #DONE
+		- #LATER
+		- #NOW
+		- #DOING
+		- #WAITING
+- [special-waddle - GitHub](https://github.com/samsiufly/special-waddle) - GitHub Repo
 - # Using this Site
 - To navigate from page to page, utilise the post links below. Additionally, you can explore the links between these posts using the provided interactive graph. Every page is accessible starting from this welcome post! As you click on links and go deeper into the network, pages will appear or slide in from the right and collapse to the left, creating a breadcrumb through the pages.
 -
