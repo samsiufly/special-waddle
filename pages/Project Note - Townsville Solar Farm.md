@@ -5,6 +5,7 @@
 	- [[Mar 20th, 2023]] - Registered an account for the application on business.gov.au
 - Application Submission Pages on Business.gov.au for **Regional Hydrogen Hubs Program – Townsville Region Grant opportunity** [application portal](https://business.gov.au/grants-and-programs/regional-hydrogen-hubs-townsville-region#key-documents) [[Mar 20th, 2023]]
   background-color:: yellow
+  collapsed:: true
 	- Login ID/Pw
 		- ID : sam.wu@integratedenergy.com.au
 		- PW: !# F%N2Hb^BESl[Hz (Delete the space)
@@ -19,3 +20,9 @@
 	- [[9 - Application finalisation]]
 	- [[10 - Primary contact information]]
 	- 11 - Declaration
+- ## Project Plan
+	- GIS dataset in Google Earth:
+	- #TODO How to centralise all project files in one location?
+	- Proposed sites
+		- ### Hydrogen Hub
+		- ### HRS
