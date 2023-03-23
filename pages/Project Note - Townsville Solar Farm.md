@@ -81,7 +81,6 @@
 - # Other on-going Hydrogen projects in the region
 	-
 	- ## SunHQ Hydrogen Hub
-	  collapsed:: true
 		- [SunHQ Hydrogen Hub | Ark Energy](https://arkenergy.com.au/hydrogen/hydrogen-project/) - Phase 1 of SunHQ will involve a 1MW PEM electrolyser, supplied by [Plug Power](https://www.plugpower.com/), which will produce green hydrogen from a behind-the-meter connection to the co-located 121MWac Sun Metals solar farm. Compression, storage and refuelling facilities will be located adjacent to the electrolyser.
 		- Electrolyser power rating: 1MW
 		- Maximum output: 155,000kg p.a.
