@@ -8,3 +8,8 @@
 	- 喝下生命藥水後，你會獲得隨機聖壇或次元之力秘壇效果。
 - 傳奇巫女法器入手方法 - 大小秘境: 煙霧繚繞的香爐 - 給追隨者裝備：追隨者不會死亡
 - 挑戰秘境獎勵怎麼領取? [挑戰秘境獎勵怎麼領取 挑戰秘境獎勵領取方法-遊俠網](https://gl.ali213.net/wenda/82471.html)
+-
+- # ポケモンSV
+- [Pokemon SV Note](https://www.evernote.com/shard/s259/nl/34502201/ee25b866-a5ef-ff9e-1667-a3f34d247c79?title=%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3SV) - I took some note during 1st stage
+-
+- # Yugioh MD

@@ -1,1 +1,7 @@
-- [Geographic Information Systems (GIS) | Coursera](https://www.coursera.org/specializations/gis) - GIS Coursea Course
+- GIS Courses
+	- [Geographic Information Systems (GIS) | Coursera](https://www.coursera.org/specializations/gis) - GIS Coursea Course
+-
+- ## Tutorial
+	- [Creating a 3d model of a city using Blender and BlenderGIS](https://www.youtube.com/watch?v=dwj8npFZSyI) - To use blender and a GIS plugin - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - to create a 3D topography by combining heightmap data and satellite imagery
+	-
+	-

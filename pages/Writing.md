@@ -1,0 +1,4 @@
+- # Writing tools
+	- [Sentencedict](https://sentencedict.com) - You can find good sentence examples for almost every word
+	- [Free Collocation](https://www.freecollocation.com/) - A Free English Collocation Dictionary
+	- [Oxford Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/) - A free official oxford dict
