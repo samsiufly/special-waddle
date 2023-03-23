@@ -35,7 +35,7 @@
 		- A new economy needs new minerals and metals
 		- Hydrogen will play a key role in a renewable future for Townsville
 		- Hydro and batteries to store Townsville’s renewable energy
-		- High voltage network a game-changer for linking power production facilities
+		- High voltage network a revolutionary for linking power production facilities
 		- New eco precinct is a renewable energy and jobs hub in Townsville
 		- The state government is supporting the opportunities available in the renewable energy sector
 	- [Albo tips Queensland hydrogen hub to help unlock $50 billion – pv magazine Australia](https://www.pv-magazine-australia.com/2023/01/16/albo-tips-queensland-hydrogen-hub-to-help-unlock-50-billion/)

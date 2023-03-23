@@ -10,3 +10,12 @@
 - Fasting
 	- [Intermittent Fasting Calculator – Fitness Volt](https://fitnessvolt.com/if-calculator/)
 -
+- # Workout
+- Equipment I own
+	- Dumbbell Set 20kg; 8 x 1kg cast iron weight disc, 4 x 2kg cast iron weight disc, 2 x 3.1kg chrome plated iron bar with
+	- Aerobic Stepper
+	- Ankle Weight 1kg x 2
+	- Fitness Mat
+	- Exercise Wheel
+	- Push Up Bars
+- Dumbbell beginner workout exercise tutorial [here](https://www.muscleandstrength.com/workouts/3-day-full-body-dumbbell-workout)

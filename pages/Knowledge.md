@@ -1,16 +1,9 @@
-- ## GTD Method
-- ![](https://miro.medium.com/v2/resize:fit:1400/1*8AZkXUwQPMCPwCwQAeXeTQ.png)
--
-- Author: Thomas Oppong [link](https://medium.com/personal-growth/seeking-wisdom-lessons-on-becoming-an-outstanding-thinker-e9668079a939)
-	- Society values knowledge, intelligence and wisdom
-	- But knowing the level of your ignorance is important for acquiring knowledge
-	- Ignorance is dangerous when you think you know everything and it hinders your progress
-	- An example: you'll make no progress with martial arts if you think of a black belt as being "knowing everything". You'll stop putting in the work and stall.
-	- But if you're accepting that it's a level of knowledge where you've acquired the basics, and the next steps are re-learning and refining then you'll continue to improve.
-	- The first thing I did as a black belt was go back to white belt techniques and relearn them but improve them each time.
-	- Ignorance not so much a shame as being unwilling to learn
-	- Try to learn something new every day. If you do that then in a year you'll have learned 365 new things and be better off than the year before.
--
+- # Some digital gardens I like
+	- [Everything I know](https://wiki.nikiv.dev/) - An excellent personal wiki by a software engineer
+	- [My Knowledge Base](https://knowledge-lardissone.vercel.app/) - By Leandro Ardissone, a full stack software developer from Argentina
+	- [Start Here by qwxlea](https://qwxlea.github.io/#/page/Start%20here)
+	- [Agency make me do it](http://hyperphor.com/ammdi/Index-Date) - AMMDI is an open-notebook hypertext writing experiment, authored by Mike Travers
+	- [Rowan's Digital Garden](https://publish.obsidian.md/rowandigitalgarden/%F0%9F%8F%A0Home)
 - # Links
 - ### Look for sth?
 	- [The A to Z of economics | The Economist](https://www.economist.com/economics-a-to-z) - brief explanation of economics terms
@@ -21,7 +14,7 @@
 	- [How To Use](https://neuracache.com/howto) - It helps you build your own powerful flash card deck!
 	  id:: 6414a26e-3978-4c9f-8101-f7dae3cb5e62
 	-
--
+- {{embed ((641a95fc-6fbc-4be6-9d58-c1eca135e0aa))}}
 -
 - # Research Method
 	- [How to build an essay - Learn HQ](https://www.monash.edu/learnhq/excel-at-writing/how-to-write.../essay/how-to-build-an-essay) - structuring an academic essay

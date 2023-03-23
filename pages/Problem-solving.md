@@ -5,6 +5,12 @@
 - Step 5: Optimise and simplify
 - Step 6: Accelerate by automating the process (optional; and it's the final step)
 -
+- ## Raise questions and acknowledge your ignorance
+	- Thomas Oppong [link](https://medium.com/personal-growth/seeking-wisdom-lessons-on-becoming-an-outstanding-thinker-e9668079a939) wrote that:
+	- Our society values knowledge, intelligence and wisdom
+	- But knowing the level of your ignorance is important for acquiring knowledge
+	- The knowledge of one’s ignorance is the beginning of wisdom.
+-
 - # Step 1: Define the problem first
 - I use [[Todoist]] for projects and personal ideas.
 - Following the GTD method - Capture - Clarify - Organise - Process - Review, in there I clarify the problem and divide it into several sub-tasks. A mind map can help if the problem is too complicated.

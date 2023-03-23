@@ -1,0 +1,26 @@
+- macOS apps [learn-anything/macos-apps: Awesome macOS apps](https://github.com/learn-anything/macos-apps)
+	- ## Task manager
+		- [Todoist](https://todoist.com/) - Personal and project task in different tags; following GTD methodology
+		- [nikiv's todo list](https://nikiv.notion.site/) - A Good idea of todo list
+	- ## Planner
+		- [Fantastical](https://flexibits.com/fantastical) - an excellent app Integrating calendar and todo application
+	- ## Chat
+		- [[Discord]] - communities of ACG, Vtuber, Gaming,
+		- [[Whatsapp]] - Instant message app
+		- [[Telegram]] - become an anonymous
+		- [[WeChat]] - Best and indispensable IM app in China for survival
+		- [[Line]] - communities of ACG, Vtuber, Japanese-related friends
+		- [[Signal]] - Instant message app, alternative to [[Whatsapp]]
+	- ## Video conferencing
+		- [[Discord]] - supports game streaming
+		- [[zoom]] - an easy-to-use app for meeting and collaboration
+	- ## Index
+		- [[Raycast]] - How to search a note with Raycast quickly
+	- ## Photo
+		- Google photos - My personal photo/video/images downloaded and received via messenger apps
+		- Apple photos - exclusively for iOS
+	- ## Track
+		- [[Tracking]] - Track TV, animes, comics, games...
+		- [[My belongings]] - Timeline of things I have
+	- ## News
+		- [Staying on top of things](https://wiki.nikiv.dev/research/staying-on-top-of-things) - A great approach by Nikiv
