@@ -30,7 +30,7 @@
 - # Step 4: Action.
 - Do it if there are no viable solutions. Solve each sub-task on by one.
 - Focus!
-- Follow a ((6413e24f-938f-4cd3-a8f0-697dd3aa499f)) to make the process smoother
+- Follow [[My Workflow]] to make the process smoother
 - Ask effective questions.
 -
 - # Step 5: Optimise and simplify
