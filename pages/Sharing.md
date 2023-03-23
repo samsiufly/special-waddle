@@ -6,6 +6,8 @@
 	- [Rowan's Digital Garden](https://publish.obsidian.md/rowandigitalgarden/%F0%9F%8F%A0Home)
 	-
 - # My Workflow
+  id:: 6413e24f-938f-4cd3-a8f0-697dd3aa499f
+	- macOS apps [learn-anything/macos-apps: Awesome macOS apps](https://github.com/learn-anything/macos-apps)
 	- ## Task manager
 		- [Todoist](https://todoist.com/) - Personal and project task in different tags; following GTD methodology
 		- [nikiv's todo list](https://nikiv.notion.site/) - A Good idea of todo list

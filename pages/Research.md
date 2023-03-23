@@ -1,0 +1,3 @@
+- Some useful tips:
+	- [Autocomplete vs graph](https://anvaka.github.io/) - A tool repeating Google Autocomplete and draw a line drawing to show the context of the keyword
+- [[Problem-solving]]
