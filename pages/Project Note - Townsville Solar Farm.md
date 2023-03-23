@@ -25,6 +25,7 @@
 	- ## Project files
 		- GIS dataset in Google Earth: 
 		  [IE-FRV-Townsville Hydrogen Hub – Google My Maps](https://www.google.com/maps/d/u/0/edit?mid=1O_rnBbzKRlTm-lCNl5wA3fQSQ_1Zxy8&ll=-19.20748490122634%2C146.62084029762286&z=10)
+		- [Townsville City Plan](https://www.townsville.qld.gov.au/building-planning-and-projects/mapping-services/townsvillemaps)
 		- #TODO How to centralise all project files in one location?
 	- ## Previous Study and Press Releases
 	- Gladstone and Townsville Hydrogen Opportunities Study [Report Part 1](https://www.statedevelopment.qld.gov.au/__data/assets/pdf_file/0016/57202/gladstone-and-townsville-hydrogen-opportunities-report-1.pdf) [Report Part 2](https://www.statedevelopment.qld.gov.au/__data/assets/pdf_file/0017/57203/gladstone-and-townsville-hydrogen-opportunities-report-2.pdf)
