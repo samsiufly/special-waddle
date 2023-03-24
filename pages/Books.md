@@ -12,4 +12,4 @@
   | [How to Take Smart Notes.](http://mikosuisui.xyz:8083/book/50) | in-progres        | self-help      |
 - ---
 - [[How to Take Smart Notes]] - Book Review
--
+- [[Tracking]] - book progress
