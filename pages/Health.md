@@ -19,3 +19,5 @@
 	- Exercise Wheel
 	- Push Up Bars
 - Dumbbell beginner workout exercise tutorial [here](https://www.muscleandstrength.com/workouts/3-day-full-body-dumbbell-workout)
+	- From [[Mar 23rd, 2023]] 8 weeks exercise started.
+-
