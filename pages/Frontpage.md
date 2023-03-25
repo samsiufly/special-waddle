@@ -8,8 +8,8 @@ public:: true
 - I am still thinking of the name of this site. I can call it my own digital garden or personal wiki. But I want to have a more interesting name. [[Mar 13th, 2023]]
 - # Site Admin ⌨️
 - [[About me]] 🏗️
-- ### Changelog
-	- Added:  Journals section as my Inbox.
+- ### Tracking
+	-
 	- Tag system
 	  collapsed:: true
 		- #IN-PROGRESS ((641466d3-b48e-483b-976b-f8a82e0f5cca)) - to build a private, multi-platform ebook library

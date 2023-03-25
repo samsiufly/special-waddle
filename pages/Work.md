@@ -4,7 +4,18 @@
 - {{embed ((64154332-dc00-491e-9f4d-a29479d699c1))}}
 - [[Dardanup Hydrogen Valley]]
 - {{embed ((6415425e-0f85-4fbd-9ed6-67e31235c743))}}
-	-
+- ### Productivity Up
+	- As stated in [[Problem-solving]], the last step of problem solving is to optimise and simplify the task after repeating the same task over and over, that could induce problems.
+		- [Does Doing the Same Work Over and Over Again Make You Less Ethical? - Harvard Business Review, 2017](https://hbr.org/2017/03/does-doing-the-same-work-over-and-over-again-make-you-less-ethical)
+	- Normal workflow: Draft on PPT -> Upload -> 2nd Draft -> Upload
+		- The problem is that there is no manageable way to track the changes made to each version, i.e. version control.
+		- PPT is not an ideal writing  and brainstorming environment; it's always a final step of the workflow, especially for hundreds of pages of slides.
+		- In order not to interrupt the current workflow in our team, I will only enhance my own productivity and keep the final works done by me same as before.
+		- The final outputs are still slides and word documents; but the workflow will be changed.
+		- I'll try to draft a report or a presentation on an outliner supports [[Markdown]] format, i.e. Logseq or Obsidian.
+		- The learning curve is unknown, so I will progressively move towards the optimised workflow.
+		- In early stage, copy the rendered text from outliner to PowerPoint or Word.
+		-
 - ### Skillsets
 	- [[GIS]] - GIS online course
 	- [[Visualisation]] - SketchUp, Lumion, Rhino

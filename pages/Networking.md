@@ -1,0 +1,13 @@
+- ### How to connect home server without a public ip ?
+	- VPN server in router
+	- P2P VPN: ZeroTier, Hamachi, Tailscale
+- ### ZeroTier
+	- [ZeroTier Knowledge Base - Confluence](https://zerotier.atlassian.net/wiki/spaces/SD/overview?homepageId=163911) - Documentation; ZeroTier supports some high-end routers and NAS
+- ### SMB Server on Windows
+- [How to Configure Your PC or Server for SMB (Server Message Block) Scanning on Dell Laser Printers | Dell Australia](https://www.dell.com/support/kbdoc/en-au/000175311/how-to-configure-your-pc-or-server-for-smb-server-message-block-scanning-on-dell-laser-printers#Four) - A how-to guide to easily configure a SMB server on Windows 10
+- Always create another independent account for SMB users to log-in for security reasons
+-
+- ### NAS
+- #### New NAS products
+	- [DiskStation® DS723  | Synology Inc.](https://www.synology.com/en-us/products/DS723+) - A powerful NAS equipped with x86 CPU and expandable hardwares
+-

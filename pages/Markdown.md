@@ -1,0 +1,10 @@
+- # Links
+	- [Markdown Guide](https://www.markdownguide.org/) - for beginners
+	- [Markdown Cheat Sheet | Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+-
+- # Presentation
+	- "Believe it or not, you can generate presentations from Markdown-formatted files. Creating presentations in Markdown takes a little getting used to, but once you get the hang of it, it’s a lot faster and easier than using an application like PowerPoint or Keynote. [Remark](https://remarkjs.com/) ([GitHub project](https://github.com/gnab/remark)) is a popular browser-based Markdown slideshow tool, as are [Cleaver](https://jdan.github.io/cleaver/) ([GitHub project](https://github.com/jdan/cleaver)) and [Marp](https://marp.app/) ([GitHub project](https://github.com/marp-team/marp)). If you use a Mac and would prefer to use an application, check out [Deckset](https://www.decksetapp.com/) or [Hyperdeck](https://hyperdeck.io/)."
+	- [R Markdown](https://rmarkdown.rstudio.com/) - turn the MD file into PowerPoint or Word Doc.
+	- [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+	- [How To Make A PowerPoint Presentation Using R Markdown](https://appsilon.com/r-markdown-powerpoint-presentation/) - a beginner how-to guide in R Markdown
+	-
