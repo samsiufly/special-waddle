@@ -7,6 +7,7 @@
 	- [[Mar 22nd, 2023]] - 3D model of HRS1, HRS BP
 - Application Submission Pages on Business.gov.au for **Regional Hydrogen Hubs Program – Townsville Region Grant opportunity** [application portal](https://business.gov.au/grants-and-programs/regional-hydrogen-hubs-townsville-region#key-documents) [[Mar 20th, 2023]]
   background-color:: yellow
+  collapsed:: true
 	- Login ID/Pw
 		- ID : sam.wu@integratedenergy.com.au
 		- PW: !# F%N2Hb^BESl[Hz (Delete the space)
@@ -21,11 +22,12 @@
 	- [[9 - Application finalisation]]
 	- [[10 - Primary contact information]]
 	- 11 - Declaration
-- # Project Plan
-	- ## Project files
+- # 1. Project Plan
+	- ## Project files and resources
 		- GIS dataset in Google Earth: 
-		  [IE-FRV-Townsville Hydrogen Hub – Google My Maps](https://www.google.com/maps/d/u/0/edit?mid=1O_rnBbzKRlTm-lCNl5wA3fQSQ_1Zxy8&ll=-19.20748490122634%2C146.62084029762286&z=10)
-		- [Townsville City Plan](https://www.townsville.qld.gov.au/building-planning-and-projects/mapping-services/townsvillemaps)
+		  [IE-FRV-Townsville Hydrogen Hub – Google My Maps](https://www.google.com/maps/d/u/0/edit?mid=1O_rnBbzKRlTm-lCNl5wA3fQSQ_1Zxy8&ll=-19.20748490122634%2C146.62084029762286&z=10) dated [[Mar 24th, 2023]]
+		- [Townsville City Plan](https://www.townsville.qld.gov.au/building-planning-and-projects/mapping-services/townsvillemaps) - property check, zoning check
+		- [Queensland Globe](https://qldglobe.information.qld.gov.au/) - satellite imagery of QLD
 		- #TODO How to centralise all project files in one location?
 	- ## Previous Study and Press Releases
 	- Gladstone and Townsville Hydrogen Opportunities Study [Report Part 1](https://www.statedevelopment.qld.gov.au/__data/assets/pdf_file/0016/57202/gladstone-and-townsville-hydrogen-opportunities-report-1.pdf) [Report Part 2](https://www.statedevelopment.qld.gov.au/__data/assets/pdf_file/0017/57203/gladstone-and-townsville-hydrogen-opportunities-report-2.pdf)
@@ -39,17 +41,25 @@
 		- New eco precinct is a renewable energy and jobs hub in Townsville
 		- The state government is supporting the opportunities available in the renewable energy sector
 	- [Albo tips Queensland hydrogen hub to help unlock $50 billion – pv magazine Australia](https://www.pv-magazine-australia.com/2023/01/16/albo-tips-queensland-hydrogen-hub-to-help-unlock-50-billion/)
-- # H2 Hub & HRS Design
-	- #### Sites
-		- #### Hydrogen Hub
-		- #### HRS
-			- ##### HRS 1
-			- ##### HRS 2
-			- ##### HRS 3
-			- ##### HRS 4
-			- ##### 41790 Bruce Highway, Bluewater, QLD 4818
-		- ### Ecosystem
-		  collapsed:: true
+- # 2. H2 Hub & HRS Design
+	- ### 1. Hydrogen Hub + Solar Farm Feasibility Studies
+		- #### [[Hydrogen Hub]]
+		- Distribution points - from Stuart to H2 Hub & from Port to H2 Hub
+		- #### HRS Feasibility Studies
+			- ##### [[HRS 1]]
+			- ##### [[HRS 2]]
+			- ##### [[HRS 3]]
+			- ##### [[HRS 4]]
+			- ##### [[HRS 5]]
+			- ---
+			- ![image.png](../assets/image_1679964140279_0.png)
+			- [[Stuart HRS Option 1]]
+			- **[[Stuart HRS Option 2]]** __Baseline Case__
+			- [[Port HRS Option 1]]
+			- [[Port HRS Option 2]]
+			- [[BP Truckstop Lakefield]]
+			- [[Stuart HRS Option 3]]
+		- ### 2. Ecosystem
 			- Contacts [potential offtaker contact page](https://integratedenergy.slack.com/files/U04R9LS76VB/F04V3BZ5XM0/image.png)
 			- #### Road traffic
 				- Bruce Highway
@@ -59,45 +69,51 @@
 			- #### Aviation
 			- #### Railway
 			- #### Manufacturing
-- # State Government Policy - Hydrogen industry development [>link here<](https://www.statedevelopment.qld.gov.au/industry/priority-industries/hydrogen-industry-development)
-  collapsed:: true
-	- QLD Government aims to put Queensland at the forefront of renewable hydrogen production in Australia by 2030.
-	- Recent achievements
-	- Queensland Hydrogen Industry Strategy
-	- Queensland Hydrogen Industry Development Fund
-	- Hydrogen development for planning scheme drafting
-	- **Queensland Hydrogen Investor Toolkit** - to assist investors with project planning for hydrogen developments in Queensland
-	- Hydrogen industry capability mapping
-	- Hydrogen release simulation modelling
-	- Reports
-		- In October 2022 the Queensland Government released the [Enabling Queensland’s Hydrogen production and export opportunities report](https://www.epw.qld.gov.au/about/initiatives/hydrogen/enabling-queenslands-hydrogen-production-and-export-opportunities-report) creating a reference guide for industry.
-		- On 20 July 2022 the Queensland Government released the [2022-2032 Queensland Hydrogen Industry Workforce Development Roadmap](https://www.publications.qld.gov.au/dataset/hydrogen-industry-workforce-development-roadmap-2022-2032)
-		- On 26 May 2021 the Clean Energy Finance Corporation released the [Australian Hydrogen Market Study](https://www.cefc.com.au/media/nhnhwlxu/australian-hydrogen-market-study.pdf)
-		- On 22 November 2019, the COAG Energy Council released [Australia’s National Hydrogen Strategy](https://www.industry.gov.au/data-and-publications/australias-national-hydrogen-strategy)
-		- On 24 September 2019, Geoscience Australia released the report [Prospective hydrogen production regions of Australia](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130930)
-		- [National Hydrogen Roadmap](https://www.csiro.au/en/Do-business/Futures/Reports/Hydrogen-Roadmap) - CSIRO (August 2018)
-		- [Hydrogen for Australia's Future](http://coagenergycouncil.gov.au/sites/prod.energycouncil/files/publications/documents/Hydrogen%20for%20Australia%27s%20Future.pdf) (![PDF icon](https://www.statedevelopment.qld.gov.au/resources/images/pdf_icon.gif) 1.1 MB) - COAG Energy Council briefing paper prepared by the Hydrogen Strategy Group (August 2018)
-		- [Opportunities for Australia from Hydrogen Exports](https://arena.gov.au/assets/2018/08/opportunities-for-australia-from-hydrogen-exports.pdf) (![PDF icon](https://www.statedevelopment.qld.gov.au/resources/images/pdf_icon.gif) 3.6 MB) - Australian Renewable Energy Agency (ARENA) ACIL Allen consulting (August 2018)
-- # Other on-going Hydrogen projects in the region
-	-
-	- ## SunHQ Hydrogen Hub
-		- [SunHQ Hydrogen Hub | Ark Energy](https://arkenergy.com.au/hydrogen/hydrogen-project/) - Phase 1 of SunHQ will involve a 1MW PEM electrolyser, supplied by [Plug Power](https://www.plugpower.com/), which will produce green hydrogen from a behind-the-meter connection to the co-located 121MWac Sun Metals solar farm. Compression, storage and refuelling facilities will be located adjacent to the electrolyser.
-		- Electrolyser power rating: 1MW
-		- Maximum output: 155,000kg p.a.
-		- Site Commissioning: September 2023 (target)
-		- Funding
-			- Received funding from the Australian Renewable Energy Agency (ARENA) as part of its *Advancing Renewables Program*.
-			- Received funding from the Queensland Government as part of its *Hydrogen Industry Development Fund*.
-	- ## Edify Energy - Green Hydrogen Project
+- # 3. Economic Analysis
+	- #### 3.1 [[Station comparison gas and liquid]] by Monica dated [[Mar 27th, 2023]] in MD
+	- #### 3.2 Construction Cost
+		- Latest Cost book in 2023
+		- Building works include:
+		- Solar farm works include:
+- # Reference
+	- ### State Government Policy - Hydrogen industry development [>link here<](https://www.statedevelopment.qld.gov.au/industry/priority-industries/hydrogen-industry-development)
+		- QLD Government aims to put Queensland at the forefront of renewable hydrogen production in Australia by 2030.
+		- Recent achievements
+		- Queensland Hydrogen Industry Strategy
+		- Queensland Hydrogen Industry Development Fund
+		- Hydrogen development for planning scheme drafting
+		- **Queensland Hydrogen Investor Toolkit** - to assist investors with project planning for hydrogen developments in Queensland
+		- Hydrogen industry capability mapping
+		- Hydrogen release simulation modelling
+		- Reports
+			- In October 2022 the Queensland Government released the [Enabling Queensland’s Hydrogen production and export opportunities report](https://www.epw.qld.gov.au/about/initiatives/hydrogen/enabling-queenslands-hydrogen-production-and-export-opportunities-report) creating a reference guide for industry.
+			- On 20 July 2022 the Queensland Government released the [2022-2032 Queensland Hydrogen Industry Workforce Development Roadmap](https://www.publications.qld.gov.au/dataset/hydrogen-industry-workforce-development-roadmap-2022-2032)
+			- On 26 May 2021 the Clean Energy Finance Corporation released the [Australian Hydrogen Market Study](https://www.cefc.com.au/media/nhnhwlxu/australian-hydrogen-market-study.pdf)
+			- On 22 November 2019, the COAG Energy Council released [Australia’s National Hydrogen Strategy](https://www.industry.gov.au/data-and-publications/australias-national-hydrogen-strategy)
+			- On 24 September 2019, Geoscience Australia released the report [Prospective hydrogen production regions of Australia](https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search#/metadata/130930)
+			- [National Hydrogen Roadmap](https://www.csiro.au/en/Do-business/Futures/Reports/Hydrogen-Roadmap) - CSIRO (August 2018)
+			- [Hydrogen for Australia's Future](http://coagenergycouncil.gov.au/sites/prod.energycouncil/files/publications/documents/Hydrogen%20for%20Australia%27s%20Future.pdf) (![PDF icon](https://www.statedevelopment.qld.gov.au/resources/images/pdf_icon.gif) 1.1 MB) - COAG Energy Council briefing paper prepared by the Hydrogen Strategy Group (August 2018)
+			- [Opportunities for Australia from Hydrogen Exports](https://arena.gov.au/assets/2018/08/opportunities-for-australia-from-hydrogen-exports.pdf) (![PDF icon](https://www.statedevelopment.qld.gov.au/resources/images/pdf_icon.gif) 3.6 MB) - Australian Renewable Energy Agency (ARENA) ACIL Allen consulting (August 2018)
+	- ### Other on-going Hydrogen projects in the region
 	  collapsed:: true
-		- [Green Hydrogen - Edify Energy](https://edifyenergy.com/project/green-hydrogen/#:~:text=Edify%20has%20been%20granted%20development,Industrial%20Precinct%20in%20Townsville%2C%20Queensland.)
-		- up to 1GW of electrolyser capacity
-		- up to 45,000 - 150,000 H2 tonnes per year
-		- State: Under development
-	- ## Aurizon Hydrogen Mobility Project
-	  collapsed:: true
-		- Aurizon is to trial up to four hydrogen fuel cell electric trucks in its fleet, including installation of a hydrogen refuelling station in Townsville, Queensland.
-	- ## Green Hydrogen Export Project
-		- [Green Liquid Hydrogen Export Project – HyResource](https://research.csiro.au/hyresource/green-liquid-hydrogen-export-project/)
-		- Origin Energy and Kawasaki Heavy Industries are collaborating to assess the potential of a green hydrogen production facility in Townsville, Queensland. Following completion of a feasibility study in 2020, the proponents are focussed on developing a commercial-scale, export-oriented project, targeting first exports in the late 2020s to early 2030s.
+		- ### SunHQ Hydrogen Hub
+			- [SunHQ Hydrogen Hub | Ark Energy](https://arkenergy.com.au/hydrogen/hydrogen-project/) - Phase 1 of SunHQ will involve a 1MW PEM electrolyser, supplied by [Plug Power](https://www.plugpower.com/), which will produce green hydrogen from a behind-the-meter connection to the co-located 121MWac Sun Metals solar farm. Compression, storage and refuelling facilities will be located adjacent to the electrolyser.
+			- Electrolyser power rating: 1MW
+			- Maximum output: 155,000kg p.a.
+			- Site Commissioning: September 2023 (target)
+			- Funding
+				- Received funding from the Australian Renewable Energy Agency (ARENA) as part of its *Advancing Renewables Program*.
+				- Received funding from the Queensland Government as part of its *Hydrogen Industry Development Fund*.
+		- ### Edify Energy - Green Hydrogen Project
+		  collapsed:: true
+			- [Green Hydrogen - Edify Energy](https://edifyenergy.com/project/green-hydrogen/#:~:text=Edify%20has%20been%20granted%20development,Industrial%20Precinct%20in%20Townsville%2C%20Queensland.)
+			- up to 1GW of electrolyser capacity
+			- up to 45,000 - 150,000 H2 tonnes per year
+			- State: Under development
+		- ### Aurizon Hydrogen Mobility Project
+		  collapsed:: true
+			- Aurizon is to trial up to four hydrogen fuel cell electric trucks in its fleet, including installation of a hydrogen refuelling station in Townsville, Queensland.
+		- ### Green Hydrogen Export Project
+			- [Green Liquid Hydrogen Export Project – HyResource](https://research.csiro.au/hyresource/green-liquid-hydrogen-export-project/)
+			- Origin Energy and Kawasaki Heavy Industries are collaborating to assess the potential of a green hydrogen production facility in Townsville, Queensland. Following completion of a feasibility study in 2020, the proponents are focussed on developing a commercial-scale, export-oriented project, targeting first exports in the late 2020s to early 2030s.
 -

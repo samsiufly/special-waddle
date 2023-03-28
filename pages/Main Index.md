@@ -25,6 +25,7 @@
 - [[Hardware]] 💻
 - [[Health]] 🧑‍⚕️❤️‍🩹
 - [[History]] 📚
+- [[Hobby]] ✈️ 🤖
 - [[Hong Kong]] 🧧
 - [[International Affairs]] 🤒☠️
 - [[Japan]] 🗾
