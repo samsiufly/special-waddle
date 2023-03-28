@@ -1,10 +1,10 @@
-- # Project Templates #TODO
+- # Project Template
+	- To create a project template page #TODO
 	- HRS Project Summary
 	- 3D Library
 	- Graphics Library
 	- Toolbox
 	- Project filename
--
 -
 - # Link
 - [How to publish logseq discussion in Reddit](https://www.reddit.com/r/logseq/comments/vfsp8y/do_you_publish_your_logseq_graph/)
