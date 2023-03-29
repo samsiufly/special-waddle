@@ -28,7 +28,7 @@
 		  [IE-FRV-Townsville Hydrogen Hub – Google My Maps](https://www.google.com/maps/d/u/0/edit?mid=1O_rnBbzKRlTm-lCNl5wA3fQSQ_1Zxy8&ll=-19.20748490122634%2C146.62084029762286&z=10) dated [[Mar 24th, 2023]]
 		- [Townsville City Plan](https://www.townsville.qld.gov.au/building-planning-and-projects/mapping-services/townsvillemaps) - property check, zoning check
 		- [Queensland Globe](https://qldglobe.information.qld.gov.au/) - satellite imagery of QLD
-		- [Queensland traffic data Averaged by hour of day and day of week - Dataset - Open Data Portal | Queensland Government](https://www.data.qld.gov.au/dataset/queensland-traffic-data-averaged-by-hour-of-day-and-day-of-week) - Is it possible to visualise the traffic flow? #TODO
+		- [Queensland traffic data Averaged by hour of day and day of week - Dataset - Open Data Portal | Queensland Government](https://www.data.qld.gov.au/dataset/queensland-traffic-data-averaged-by-hour-of-day-and-day-of-week) - Is it possible to visualise the traffic flow? [[Jupyter]] #TODO
 		- How to centralise all project files in one location? #IN-PROGRESS
 	- ## Previous Study and Press Releases
 	- Gladstone and Townsville Hydrogen Opportunities Study [Report Part 1](https://www.statedevelopment.qld.gov.au/__data/assets/pdf_file/0016/57202/gladstone-and-townsville-hydrogen-opportunities-report-1.pdf) [Report Part 2](https://www.statedevelopment.qld.gov.au/__data/assets/pdf_file/0017/57203/gladstone-and-townsville-hydrogen-opportunities-report-2.pdf)

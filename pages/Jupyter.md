@@ -1,0 +1,4 @@
+- # Tutorial
+- [Dataquest : How to Use Jupyter Notebook in 2020: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+- [Project Jupyter | Home](https://jupyter.org/)
+- [Show your Data in a Google Map with Python](https://thedatafrog.com/en/articles/show-data-google-map-python/#Google-Map-with-Data-Overlay-in-the-Jupyter-Notebook) - Interactive Visualization with Bokeh in a Jupyter Notebook
