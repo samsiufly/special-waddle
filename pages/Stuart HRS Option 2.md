@@ -1,0 +1,38 @@
+- Land parcel
+	- Lot no: Lot 50 SP 331993
+	- Area: 59954.0194 sqm ~ 6 hectares
+	- Property for lease: https://www.commercialrealestate.com.au/property/townsville-port-road-stuart-qld-4811-16098231
+	- ![image.png](../assets/image_1680060926990_0.png)
+	-
+- Waste Water Catchment 7870
+	- ![image.png](../assets/image_1680058452951_0.png)
+- Flooding
+	- ![image.png](../assets/image_1680058739461_0.png)
+	- Author: AECOM
+	- Name: LowerStuart
+	- Critical duration: 24h
+	- Date: Dec 8, 2011 10:00 AM
+	- Flood Study: Townsville State Development Area - Flood Modelling
+- Town Planning
+	- Zoning: Special Purpose
+	- QLD Planning Zone Card: https://dsdmipprd.blob.core.windows.net/general/planning-zone-cards-29-special-purpose-zone.pdf
+	- ![image.png](../assets/image_1680058852486_0.png)
+	- Industry precinct
+	- ![image.png](../assets/image_1680059303925_0.png)
+	- Bushfire hazards
+	- ![image.png](../assets/image_1680059592692_0.png)
+	- Environmental Coastal hazards areas - storm tide inundation areas and erosion area from sea level rise
+	- ![image.png](../assets/image_1680059720120_0.png)
+	- Development Constraints Flood hazard
+	- ![image.png](../assets/image_1680059847423_0.png)
+	- Landslide slope: not exist
+	- Natural Assets Environment Importance
+	- ![image.png](../assets/image_1680059947185_0.png)
+	- Natural Water Resource Catchment: NIL
+	- Infrastructure Road Noise Corridors; Rail Noise Corridors
+	- ![image.png](../assets/image_1680060399246_0.png)
+	  id:: 6423ae75-306a-4863-bbaa-723de803a6aa
+	- Supporting Diagrams
+		- Acid Sulphate soils
+		- ![image.png](../assets/image_1680060488181_0.png)
+		-
