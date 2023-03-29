@@ -1,9 +1,31 @@
 - Land parcel
+	- The property is located within the Cleveland Bay Industrial Estate (CBIE), Townsville QLD, fallen into Special Purpose zoning.
+	- ### Townsville State Development Area
+		- Portal: https://www.statedevelopment.qld.gov.au/coordinator-general/state-development-areas/current/townsville-state-development-area
+		- The CBIE is within the Townsville State Development Area. (Site starred)
+		- ![Untitled21312.jpg](../assets/Untitled21312_1680062569923_0.jpg)
+		- Development precinct map: https://www.statedevelopment.qld.gov.au/__data/assets/pdf_file/0024/17448/tsda-development-precincts-map.pdf
+		- ![Banner](https://www.statedevelopment.qld.gov.au/__data/assets/image/0016/23326/townsville-sda2.jpg)
+		- Precinct: Medium Impact Industry Precinct
+		- The Medium Impact Industry Precinct will facilitate medium impact industrial uses and promote the growth of existing industries where appropriate, including a focus on transport and logistics. See section 2.4.3 of the Townsville SDA development scheme for more information.
+		- LAND OWNERSHIP:
+			- The majority of land within the Townsville SDA is owned FREEHOLD, with a significant portion owned by a small number of land holders.
+			- The Coordinator-General owns 923 hectares within the Townsville SDA. The Coordinator-General's land holdings include land for multi-user infrastructure corridors, including the Townsville Port Access Road and future Townsville Eastern Access Rail Corridor, as well as industrial development and buffer areas.
+			- In June 2018, the Coordinator-General acquired approximately 810 hectares to support the acceleration of the Townsville SDA, a key commitment of the [Townsville City Deal](https://www.infrastructure.gov.au/cities/city-deals/townsville/).
+			- Acquiring this land allows the Coordinator-General to proactively respond to proponents seeking development opportunities here.
+			- View the [land ownership in the Townsville State Development Area](https://www.statedevelopment.qld.gov.au/__data/assets/pdf_file/0017/17243/townsville-sda-ownership.pdf) (1.2MB)
+			- According to the land ownership plan, the **Lot 50 SP 331993** is owned by other land owner rather than by QLD Coordinator-General.
+			- ![image.png](../assets/image_1680062762466_0.png)
+		- ![image.png](../assets/image_1680062219323_0.png)
 	- Lot no: Lot 50 SP 331993
 	- Area: 59954.0194 sqm ~ 6 hectares
 	- Property for lease: https://www.commercialrealestate.com.au/property/townsville-port-road-stuart-qld-4811-16098231
 	- ![image.png](../assets/image_1680060926990_0.png)
-	-
+	- Cleveland Bay Industrial Estate - Kiernan Investments Pty Ltd
+		- The Cleveland Bay Industrial Park (CBIP) master-planned industrial estate, will provide 125 hectares of fully serviced freehold industrial lots for development either side of the Townsville Port Access Road in the Townsville SDA.
+		- Suitable industrial uses will include medium-impact industry such as freight terminals, transport depots, research and technology industries, warehouses and infrastructure facilities and the location will allow for 24/7 operations.
+		- The CBIP has direct access to the Townsville Port Access Road, connecting to the Port of Townsville, the Bruce and Flinders Highways and planned infrastructure includes a signalised intersection to cater for Type 2 road train access to all industrial lots.
+		- Site works commenced in October 2021 on the western side of the development, with stage 1 and 2 lots available for industrial development now. Further stages 3, 4 and 5 will be available soon. Site works commenced on the eastern side of the development in October 2022 with sites expected to be ready for industrial development towards the end of 2023.
 - Waste Water Catchment 7870
 	- ![image.png](../assets/image_1680058452951_0.png)
 - Flooding
