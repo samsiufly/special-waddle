@@ -1,4 +1,15 @@
+- Address: 41790 Bruce Highway, Bluewater, QLD 4818
+	- Scope:
+	- Lot No.
+	- Site Area
+	- Zoning
+	- Location Plan:
+- Satellite Imagery
+- Connectivity to Hwy
+- Traffic Flow LV vs HV
+- Site 3D with simple massing LOD 100
 - Land parcel
+  collapsed:: true
 	- The property is located within the Cleveland Bay Industrial Estate (CBIE), Townsville QLD, fallen into Special Purpose zoning.
 	- ### Townsville State Development Area
 		- Portal: https://www.statedevelopment.qld.gov.au/coordinator-general/state-development-areas/current/townsville-state-development-area
@@ -21,12 +32,17 @@
 	- Area: 59954.0194 sqm ~ 6 hectares
 	- Property for lease: https://www.commercialrealestate.com.au/property/townsville-port-road-stuart-qld-4811-16098231
 	- ![image.png](../assets/image_1680060926990_0.png)
+	  <<<<<<< HEAD
 	- Cleveland Bay Industrial Estate - Kiernan Investments Pty Ltd
 		- The Cleveland Bay Industrial Park (CBIP) master-planned industrial estate, will provide 125 hectares of fully serviced freehold industrial lots for development either side of the Townsville Port Access Road in the Townsville SDA.
 		- Suitable industrial uses will include medium-impact industry such as freight terminals, transport depots, research and technology industries, warehouses and infrastructure facilities and the location will allow for 24/7 operations.
 		- The CBIP has direct access to the Townsville Port Access Road, connecting to the Port of Townsville, the Bruce and Flinders Highways and planned infrastructure includes a signalised intersection to cater for Type 2 road train access to all industrial lots.
 		- Site works commenced in October 2021 on the western side of the development, with stage 1 and 2 lots available for industrial development now. Further stages 3, 4 and 5 will be available soon. Site works commenced on the eastern side of the development in October 2022 with sites expected to be ready for industrial development towards the end of 2023.
 - Waste Water Catchment 7870
+  =======
+	-
+- ## Waste Water Catchment 7870
+  >>>>>>> eea33e2 ([logseq-plugin-git:commit] 2023-04-04T01:58:11.995Z)
 	- ![image.png](../assets/image_1680058452951_0.png)
 - Flooding
 	- ![image.png](../assets/image_1680058739461_0.png)
@@ -35,26 +51,28 @@
 	- Critical duration: 24h
 	- Date: Dec 8, 2011 10:00 AM
 	- Flood Study: Townsville State Development Area - Flood Modelling
-- Town Planning
-	- Zoning: Special Purpose
+- ## Zoning: Special Purpose
 	- QLD Planning Zone Card: https://dsdmipprd.blob.core.windows.net/general/planning-zone-cards-29-special-purpose-zone.pdf
 	- ![image.png](../assets/image_1680058852486_0.png)
-	- Industry precinct
+- ## Industry precinct
 	- ![image.png](../assets/image_1680059303925_0.png)
-	- Bushfire hazards
+- ## Bushfire hazards
 	- ![image.png](../assets/image_1680059592692_0.png)
-	- Environmental Coastal hazards areas - storm tide inundation areas and erosion area from sea level rise
+- ## Environmental Coastal hazards areas - storm tide inundation areas and erosion area from sea level rise
 	- ![image.png](../assets/image_1680059720120_0.png)
-	- Development Constraints Flood hazard
+- ## Development Constraints Flood hazard
 	- ![image.png](../assets/image_1680059847423_0.png)
-	- Landslide slope: not exist
-	- Natural Assets Environment Importance
+- ## Landslide slope: not exist
+- ## Natural Assets Environment Importance
+  collapsed:: true
 	- ![image.png](../assets/image_1680059947185_0.png)
-	- Natural Water Resource Catchment: NIL
-	- Infrastructure Road Noise Corridors; Rail Noise Corridors
+- ## Natural Water Resource Catchment: NIL
+- ## Infrastructure Road Noise Corridors; Rail Noise Corridors
 	- ![image.png](../assets/image_1680060399246_0.png)
 	  id:: 6423ae75-306a-4863-bbaa-723de803a6aa
-	- Supporting Diagrams
-		- Acid Sulphate soils
-		- ![image.png](../assets/image_1680060488181_0.png)
-		-
+- ## Acid Sulphate soils
+	- ![image.png](../assets/image_1680060488181_0.png)
+-
+- ## Test
+	- ![Test Image](https://d33wubrfki0l68.cloudfront.net/aa8ef57652bb9b7d6aa18f6c38b6b45a510a8960/1d9d3/lesson-images/how-1-file.png){:height 460, :width 746}
+-
