@@ -1,0 +1,3 @@
+- [Zero = abundance: Design your own happiness.](https://www.interactiongreen.com/) - leveraging Japanese Zen aesthetics
+- [Decluttering Club | Facebook](https://www.facebook.com/EarlybirdMom) - decluttering tips sharing
+-

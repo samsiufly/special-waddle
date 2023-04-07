@@ -1,5 +1,5 @@
 - [[Interior Design]]
--
+- [[Japanese Architecture]]
 - # Ideas Generators
 - [Work in Progress - Harvard Graduate School of Design](https://www.gsd.harvard.edu/category/work-in-progress/) - To see how the top students in a top school play with architecture
 - [Zotero | Groups > Japanese Architecture](https://www.zotero.org/groups/34411/japanese_architecture)
@@ -25,6 +25,8 @@
 - [Gallery of The Dallas Holocaust ](https://www.archdaily.com/926223/the-dallas-holocaust-and-human-rights-museum-omniplan/5d9dd9a4284dd172410000eb-the-dallas-holocaust-and-human-rights-museum-omniplan-second-floor-plan?next_project=no)
 - [小堀哲夫建築設計事務所監修、大和ハウス工業が奈良に研修施設「大和ハウスグループ みらい価値共創センター」を開所 ｜BUSINESS｜TECTURE MAG（テクチャーマガジン）](https://mag.tecture.jp/business/20210929-40455/?fbclid=IwAR1hyVgGNu0NP2IKp7AGoXvPmStyLTZQ5nvx17K-I5fhy8gxWhnfzgSV6ms)
 - [芸術展2020](http://waa-archifest.com/1st/comparison.html) - 早稻田大學 2020 住宅比較課題
+- [一級建築士矩子の設計思考 (1) (ニチブンコミクス) | 鬼ノ仁 |本 | 通販 | Amazon](https://www.amazon.co.jp/%E4%B8%80%E7%B4%9A%E5%BB%BA%E7%AF%89%E5%A3%AB%E7%9F%A9%E5%AD%90%E3%81%AE%E8%A8%AD%E8%A8%88%E6%80%9D%E8%80%83-1-%E3%83%8B%E3%83%81%E3%83%96%E3%83%B3%E3%82%B3%E3%83%9F%E3%82%AF%E3%82%B9-%E9%AC%BC%E3%83%8E%E4%BB%81/dp/4537144785?&linkCode=li2&tag=yamakenlabtri-22&linkId=1a1da121e9fd54dcacd28bdacf907610&language=ja_JP&ref_=as_li_ss_il) - 一級建築士の資格を持つ人気R18漫画家が描く、唯一無二の建築漫画
+- [a u Architecture and Urbanism Magazine – from Tokyo (Japan)](https://au-magazine.com/) - Japan & World-wide Architecture
 -
 -
 -
